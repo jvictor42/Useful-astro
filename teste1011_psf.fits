@@ -1,0 +1,310 @@
+SIMPLE  =                    T / Fits standard                                  BITPIX  =                  -32 / Bits per pixel                                 NAXIS   =                    2 / Number of axes                                 NAXIS1  =                  101 / Axis length                                    NAXIS2  =                  101 / Axis length                                    EXTEND  =                    F / File may contain extensions                    ORIGIN  = 'NOAO-IRAF FITS Image Kernel July 2003' / FITS file originator        IRAF-TLM= '2019-07-26T04:22:14' / Time of last modification                     DATE    = '2019-07-26T04:22:14' / UT date when this file was written            MJD-OBS =       52729.09558004          / MJD start (2003-03-31T02:17:38.115)   DATE-OBS= '2003-03-31T02:17:38.115'     / Date of observation                   EXPTIME =             450.0036 / Total integration time                         OBJECT  = 'CTS1011 '           / Original target                                INSTRUME= 'SUSI/5.7'                    / Instrument used                       OBSERVER= 'UNKNOWN '                    / Name of observer                      PI-COI  = 'UNKNOWN '                    / Name(s) of proposer(s)                TELESCOP= 'ESO-NTT '                    / ESO Telescope Name                    RA      = ' 10:19:26.598'               / 10:19:26.5 RA (J2000) pointing (deg)  DEC     = '-22:08:20.004'               / -22:08:20.0 DEC (J2000) pointing (deg)EQUINOX =                2000.          / Standard FK5 (years)                  RADECSYS= 'FK5     '                    / Coordinate reference frame            ST      = ' 10:06:48.420'               / 10:06:48.420 LST at start (sec)       UT      = ' 02:17:33.000'               / 02:17:33.000 UTC at start (sec)       HIERARCH ESO OBS DID         = 'ESO-VLT-DIC.OBS-1.7' / OBS Dictionary           HIERARCH ESO OBS OBSERVER    = 'UNKNOWN '   / Observer Name                     HIERARCH ESO OBS EXECTIME    =          178 / Expected execution time           HIERARCH ESO OBS PI-COI NAME = 'UNKNOWN '   / PI-COI name                       HIERARCH ESO OBS PI-COI ID   =          124 / ESO internal PI-COI ID            HIERARCH ESO OBS GRP         = '0       '   / linked blocks                     HIERARCH ESO OBS NAME        = 'CTS1011 '   / OB name                           HIERARCH ESO OBS ID          =    100146347 / Observation block ID              HIERARCH ESO OBS PROG ID     = '70.B-0184(A)' / ESO program identification      HIERARCH ESO OBS START       = '2003-03-31T02:17:22' / OB start time            HIERARCH ESO OBS TPLNO       =            3 / Template number within OB         HIERARCH ESO OBS TARG NAME   = 'CTS1011 '   / OB target name                    HIERARCH ESO TPL DID         = 'ESO-VLT-DIC.TPL-1.4' / Data dictionary for TPL  HIERARCH ESO TPL ID          = 'SUSI_img_obs_Jitter' / Template signature ID    HIERARCH ESO TPL NAME        = 'Jitter mode multiple science or standard exposu'HIERARCH ESO TPL PRESEQ      = 'SUSI_img_obs_Jitter.seq' / Sequencer script     HIERARCH ESO TPL START       = '2003-03-31T02:17:22' / TPL start time           HIERARCH ESO TPL VERSION     = '1.0     '   / Version of the template           HIERARCH ESO TPL NEXP        =            1 / Number of exposures within templatHIERARCH ESO TPL EXPNO       =            1 / Exposure number within template   HIERARCH ESO DPR CATG        = 'SCIENCE '   / Observation category              HIERARCH ESO DPR TECH        = 'IMAGE   '   / Observation technique             HIERARCH ESO TEL DID         = 'ESO-VLT-DIC.TCS' / Data dictionary for TEL      HIERARCH ESO TEL ID          = 'v 5.2   '   / TCS version number                HIERARCH ESO TEL DATE        = 'not set '   / TCS installation date             HIERARCH ESO TEL ALT         =       82.338 / Alt angle at start (deg)          HIERARCH ESO TEL AZ          =      202.800 / Az angle at start (deg) S=0,W=90  HIERARCH ESO TEL GEOELEV     =         2377. / Elevation above sea level (m)    HIERARCH ESO TEL GEOLAT      =     -29.2584 / Tel geo latitute (+=North) (deg)  HIERARCH ESO TEL GEOLON      =     -70.7345 / Tel geo longitude (+=East) (deg)  HIERARCH ESO TEL OPER        = 'NTT TIO '   / Telescope Operator                HIERARCH ESO TEL FOCU ID     = 'NA      '   / Telescope focus station ID        HIERARCH ESO TEL FOCU LEN    =      120.000 / Focal length (m)                  HIERARCH ESO TEL FOCU SCALE  =        1.718 / Focal scale (arcsec/mm)           HIERARCH ESO TEL FOCU VALUE  =       -3.912 / M2 setting (mm)                   HIERARCH ESO TEL PARANG START=     -158.607 / Parallactic angle at start (deg)  AIRMASS =        1.009 / Airmass at start                                       HIERARCH ESO TEL AMBI FWHM START=      1.07 / Observatory Seeing queried from ASHIERARCH ESO TEL AMBI PRES START=    773.50 / Observatory ambient air pressure qHIERARCH ESO TEL AMBI WINDSP =         4.65 / Observatory ambient wind speed queHIERARCH ESO TEL AMBI WINDDIR=           36. / Observatory ambient wind directioHIERARCH ESO TEL AMBI RHUM   =           25. / Observatory ambient relative humiHIERARCH ESO TEL AMBI TEMP   =        14.75 / Observatory ambient temperature quHIERARCH ESO TEL MOON RA     = 233318.639728 / ~~:~~:~~.~ RA (J2000) (deg)      HIERARCH ESO TEL MOON DEC    = -72610.06532 / -~~:~~:~~.~ DEC (J2000) (deg)     HIERARCH ESO TEL TH M1 TEMP  =        -1.00 / M1 superficial temperature        HIERARCH ESO TEL TRAK STATUS = 'NORMAL  '   / Tracking status                   HIERARCH ESO TEL DOME STATUS = 'FULLY-OPEN' / Dome status                       HIERARCH ESO TEL CHOP ST     =            F / True when chopping is active      HIERARCH ESO TEL PARANG END  =     -170.974 / Parallactic angle at end (deg)    HIERARCH ESO TEL AIRM END    =        1.008 / Airmass at end                    HIERARCH ESO TEL AMBI FWHM END=        1.16 / Observatory Seeing queried from ASHIERARCH ESO TEL AMBI PRES END=      773.50 / Observatory ambient air pressure qHIERARCH ESO ADA ABSROT START=     60.58567 / Abs rot angle at exp start (deg)  HIERARCH ESO ADA POSANG      =      0.00000 / Position angle at start           HIERARCH ESO ADA GUID STATUS = 'OFF     '   / Status of autoguider              HIERARCH ESO ADA ABSROT END  =     73.44152 / Abs rot angle at exp end (deg)    HIERARCH ESO INS ID          = 'SUSI/5.7'   /                                   HIERARCH ESO INS MIRR4 ID    = 'SUSI    '   /                                   HIERARCH ESO INS MIRR4 NAME  = 'SUSI    '   /                                   HIERARCH ESO INS MIRR4 NO    =            1 /                                   HIERARCH ESO INS MIRR4 TYPE  = 'Mirror  '   /                                   HIERARCH ESO INS FILT1 ID    = 'HeII#880'   /                                   FILTER1 = 'HeII#880'   /                                                        HIERARCH ESO INS FILT1 NO    =            1 /                                   HIERARCH ESO INS FILT1 TYPE  = 'filter  '   /                                   HIERARCH ESO DET ID          = 'CCD FIERA - Rev 2.87' / Detector system Id      HIERARCH ESO DET NAME        = 'ccdsusi - ccdsusi' / Name of detector system    HIERARCH ESO DET DATE        = '1998-01-28' / Installation date                 HIERARCH ESO DET DID         = 'ESO-VLT-DIC.CCDDCS,ESO-VLT-DIC.FCDDCS' / DictionHIERARCH ESO DET BITS        =           16 / Bits per pixel readout            HIERARCH ESO DET SOFW MODE   = 'Normal  '   / CCD sw operational mode           HIERARCH ESO DET CHIPS       =            2 / # of chips in detector array      HIERARCH ESO DET CHIP1 ID    = 'ccd45   '   / Detector chip identification      HIERARCH ESO DET CHIP1 NAME  = 'EEV44-80'   / Detector chip name                HIERARCH ESO DET CHIP1 DATE  = '1998-01-28' / Date of installation [YYYY-MM-DD] HIERARCH ESO DET CHIP1 X     =            1 / X location in array               HIERARCH ESO DET CHIP1 Y     =            1 / Y location in array               HIERARCH ESO DET CHIP1 NX    =         2048 / # of pixels along X               HIERARCH ESO DET CHIP1 NY    =         4096 / # of pixels along Y               HIERARCH ESO DET CHIP1 PSZX  =         15.0 / Size of pixel in X                HIERARCH ESO DET CHIP1 PSZY  =         15.0 / Size of pixel in Y                HIERARCH ESO DET CHIP2 ID    = 'ccd46   '   / Detector chip identification      HIERARCH ESO DET CHIP2 NAME  = 'EEV44-80'   / Detector chip name                HIERARCH ESO DET CHIP2 DATE  = '1998-01-28' / Date of installation [YYYY-MM-DD] HIERARCH ESO DET CHIP2 X     =            2 / X location in array               HIERARCH ESO DET CHIP2 Y     =            1 / Y location in array               HIERARCH ESO DET CHIP2 NX    =         2048 / # of pixels along X               HIERARCH ESO DET CHIP2 NY    =         4096 / # of pixels along Y               HIERARCH ESO DET CHIP2 PSZX  =         15.0 / Size of pixel in X                HIERARCH ESO DET CHIP2 PSZY  =         15.0 / Size of pixel in Y                HIERARCH ESO DET EXP NO      =          971 / Unique exposure ID number         HIERARCH ESO DET EXP TYPE    = 'Normal  '   / Exposure type                     HIERARCH ESO DET EXP DUMDIT  =            0 / # of dummy readouts               HIERARCH ESO DET EXP RDTTIME =       15.128 / image readout time                HIERARCH ESO DET EXP XFERTIM =       15.322 / image transfer time               HIERARCH ESO DET READ MODE   = 'normal  '   / Readout method                    HIERARCH ESO DET READ SPEED  = 'normal  '   / Readout speed                     HIERARCH ESO DET READ CLOCK  = 'readout L'  / Readout clock pattern used        HIERARCH ESO DET OUTPUTS     =            2 / # of outputs                      HIERARCH ESO DET OUTREF      =            0 / reference output                  HIERARCH ESO DET OUT1 ID     = 'L       '   / Output ID as from manufacturer    HIERARCH ESO DET OUT1 NAME   = 'L       '   / Description of output             HIERARCH ESO DET OUT1 CHIP   =            1 / Chip to which the output belongs  HIERARCH ESO DET OUT1 X      =            1 / X location of output              HIERARCH ESO DET OUT1 Y      =            1 / Y location of output              HIERARCH ESO DET OUT1 NX     =         1024 / valid pixels along X              HIERARCH ESO DET OUT1 NY     =         2018 / valid pixels along Y              HIERARCH ESO DET OUT1 PRSCX  =           25 / Prescan region in X               HIERARCH ESO DET OUT1 OVSCX  =           23 / Overscan region in X              HIERARCH ESO DET OUT1 CONAD  =         2.24 / Conversion from ADUs to electrons HIERARCH ESO DET OUT1 RON    =         0.00 / Readout noise per output (e-)     HIERARCH ESO DET OUT1 GAIN   =         0.45 / Conversion from electrons to ADU  HIERARCH ESO DET OUT3 ID     = 'L       '   / Output ID as from manufacturer    HIERARCH ESO DET OUT3 NAME   = 'L       '   / Description of output             HIERARCH ESO DET OUT3 CHIP   =            2 / Chip to which the output belongs  HIERARCH ESO DET OUT3 X      =         2049 / X location of output              HIERARCH ESO DET OUT3 Y      =            1 / Y location of output              HIERARCH ESO DET OUT3 NX     =         1024 / valid pixels along X              HIERARCH ESO DET OUT3 NY     =         2018 / valid pixels along Y              HIERARCH ESO DET OUT3 PRSCX  =           25 / Prescan region in X               HIERARCH ESO DET OUT3 OVSCX  =           23 / Overscan region in X              HIERARCH ESO DET OUT3 CONAD  =         2.26 / Conversion from ADUs to electrons HIERARCH ESO DET OUT3 RON    =         0.00 / Readout noise per output (e-)     HIERARCH ESO DET OUT3 GAIN   =         0.44 / Conversion from electrons to ADU  HIERARCH ESO DET FRAM ID     =            1 / Image sequencial number           HIERARCH ESO DET FRAM TYPE   = 'Normal  '   / Type of frame                     HIERARCH ESO DET WINDOWS     =            1 / # of windows readout              HIERARCH ESO DET WIN1 STRX   =            1 / Lower left pixel in X             HIERARCH ESO DET WIN1 STRY   =            1 / Lower left pixel in Y             HIERARCH ESO DET WIN1 NX     =         2144 / # of pixels along X               HIERARCH ESO DET WIN1 NY     =         2048 / # of pixels along Y               HIERARCH ESO DET WIN1 BINX   =            2 / Binning factor along X            HIERARCH ESO DET WIN1 BINY   =            2 / Binning factor along Y            HIERARCH ESO DET WIN1 NDIT   =            1 / # of subintegrations              HIERARCH ESO DET WIN1 UIT1   =   450.000000 / user defined subintegration time  HIERARCH ESO DET WIN1 DIT1   =   450.003440 / actual subintegration time        HIERARCH ESO DET WIN1 DKTM   =     450.0595 / Dark current time                 HIERARCH ESO DET SHUT TYPE   = 'Slit    '   / type of shutter                   HIERARCH ESO DET SHUT ID     = 'ccdsusi shutter' / Shutter unique identifier    HIERARCH ESO DET SHUT TMOPEN =        0.093 / Time taken to open shutter        HIERARCH ESO DET SHUT TMCLOS =        0.100 / Time taken to close shutter       ORIGFILE= 'SUSI_img_obs_Jitter.23.fits' / Original File Name                    ARCFILE = 'ONTT.2003-03-31T02:17:38.115.fits' / Archive File Name               CHECKSUM= 'f5cBg4bBf4bBf4bB'   / ASCII 1's complement checksum                  DISPAXIS=                    2                                                  WCSDIM  =                    2                                                  LTM1_1  =                   1.                                                  LTM2_2  =                   1.                                                  WAT0_001= 'system=physical'                                                     WAT1_001= 'wtype=linear'                                                        WAT2_001= 'wtype=linear'                                                        TRIM    = 'Jun  2 20:23 Trim data section is [50:1045,1:2048]'                  ZEROCOR = 'Jun  2 20:23 Zero level correction image is 45-ZERO-30.fits'         FLATCOR = 'Jun  2 20:23 Flat field image is 45-SKYFLAT-880-30 with scale=31958.'CCDSEC  = '[50:1045,1:2048]'                                                    CCDPROC = 'Jun  2 20:23 CCD processing done'                                    FIXPIX  = 'Jun  2 20:34 Bad pixel file is 45-bad.list'                          GAIN    =                 2.16                                                  NCOMBINE=                    2                                                  DARKTIME=             450.0036                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  END                                                                             >4x>>—õ>	v>íè>	&∞>„>=ˆ{ >ÁÃ> bÚ>Q=˛©=€ﬁó=ŸÒA=ƒ´„=⁄Iâ=ˇ@ı>˝Á>”Ñ>ÚC>q==˛)h=˛}m=ÎJ8=⁄µ>zÆ>Z[=˝Æ=Ï b>∑ü=˝ô÷>4g=ﬁƒ†=˜<|>	S>Qù>¿&>ø∏=ˇ˚æ>ˇ>∞¡>;€=Ôù[>ÔX>^>ân>)≥>úV>d$>;§>±ﬁ>Åe> AÆ=ﬁd=Ï%º>"≠Y>€ª=€¬>π>àU>¨\>ƒK>Õè=¸Aﬂ>∏G>;Í>Wh>◊T>	&>Ã®=˚¥ã=‡@==˘Ê">Av=ÚsÑ>…Î>[~>|ç>ƒ∫> ëÚ>™π>‚ê>£=˛∆∂=¸Ä`=Ú)Ù=È¯~=¯=›Õ˚=Û€¶>^>	>uX>}µ>ªw=Ù∑>ß=ÙûÈ=¡„—=◊@G=Ó[ì=Óo8=Ù¨Z=€‹>4]>Æ>%>–l>wÖ>'%>≥≈>[n>	x>ƒ»>L˜> uÎ>É…>ûÒ=ˆˇ=˛√>yG=ÍÌ=5=ˆè=˛
+÷>íÖ>´=ÍEV=˙p—>Vw>bK=¯ä⁄>TN=Ú‡5=ŸËQ>x=ˆi“=◊‡˛=¸πª>CH> Í>ûL>#—∂>¸v=˜∑6>E•>
+O=ˆçÜ=‘ì>	ï9>€À>nK>
+0>⁄«>DŸ>t>î~=¸^=Íáñ> »=‹Xk=∂‘=Ëï9>¸Â>-_>m^> O„>2!>oä>?·>
+%˛=˝C>
+U}>¶±>Û_>«ˆ>‹4=À3=·ÊÏ>øΩ>
+≥(> D,=‹°√=Û\ì>“>	>Ü!> ~>=?>Íœ>”¿>7Ω>·“=Ù)˙> ≈à>s>fx>ÚD=˜E>i´>u‡>g}>˚P><P=‰;=Úıπ>Æ>1‡=ˇ´%=ÛG>úG>ﬁÂ>h>Uo>H‹=ˇöß=Ãm=Î˜>[Ñ=›\´=ÀÕÚ=œ?>/;>ÑÖ=„è´=«¬‚=¸gH>"Î>å>§¥>†Á>èo=˜}K>’6>ˇ»>Cf>
+Í∫>–ú>Ê»>æD>?Ã=ˆ†n=ÍÌ=Ã§´=Úß>ó÷>Ik><π=€å=⁄j=˛òœ>äV>s=ÈSŸ=Òö{=Ó]1>F©>N◊>oà=˚ƒ>í>Ì>∂ê=˘t=ÔÒ‡>¯>ió>’|>ÿ>
+∏Ÿ=§hø=û˘U=Ùxt>ÆŒ=˛œ‹>∑û>añ>
+úp>‘‘=¯˙=ÿˆ´>ïx>0ë>‰=˚Nù>∏x>ãe>R">∫º>ãÍ=‡9=Ëh∑=Ì5t=Á(>.>
+Jˇ>oÏ>˝∫>Àe=’‚=˝…E>rΩ>*>&…ª>Ωœ>H¶>rX>dt>LÌ=˝ã“>	›*>∏3>8~=ÌY≥>ã*>%à>TS=ÙJ~> 7O=Ò=ı√√>&Ïô>‚´=Ó^=>h´=˜do=◊ùL>&>!ø=Ú=˚«[>!{>q–=Ì≠é=◊™=Ê›>á÷>	j>>˚f>~U=„®c=Èó4>’¢=ÂõÅ=Ûß*>	ö8=ˇ–>“Ó>
+“Ω>
+õ‹>Ô÷>Ù˜>˘≠>É‚>’t>7L=È©€=˚B¬>H≥>*™=ˇ™ =ÏùÆ=˛
+ì>õ>Bñ=˛	ó=˝Æ=ˆ¬¨=‰È0=ˆ.=˝"ê=˙T>->Ö@>L>œâ>9Ï>ÒÊ>‹c>	 ~=ˆ÷>	Ï>Ó>ë_>⁄>,∑>Ò3>§>›+=ÊO=ÿQŸ=˘O÷>∞«>!w>
+:>	kB=Ú:î> ∫è>∆‹=ÂÂp=Ì}Ç=˝Dì>XQ=˜Íµ=˙†'>!%>øc>ËU>Òy>00=ÔÍ>
+uÑ>π=€œ(=ˇ~N>#π>ê¥=ı∑â=ÈÓ˜> °F>
+d>5Û>5v> ™¨>õ> 5¢>ø=¯—=˝-|>W>	]∞>ëè>G÷>¥=¸ó=˚æƒ>LÇ=Î@=‚
+ﬂ=¯Ç>X=Ï0É=„ [=Í_î=˙q—>^+>
+C=ÚMç=¯
+é>]B>Qf>¯≈>ó=>i=Ì->ËË> ¬> ≈/=˚]Ú>Â8=ù=’À÷=ËN>
+e
+>’=˜=ÂÈü=˝˛ì>ß_>¶>ÅÆ>éc>Ÿz>?>ïÓ>~>Z˝> Ωë>+˚=Ù.á> v=Áé»=¥Ä0=ÁN◊> -–=ÛS›>x∫>≠1>hÈ>≤>…&>ü=Ï†=ËA§>ÖB>©Ó=˛gi>˙ı>[ﬁ> ây>n’>˜Â>êÜ=Íxí> Å¬=‹⁄=‹¸¸> 1≠=˙8±>
+e=Í'©=Úˇ∫>@Î>¯@>°=‹P≈=⁄
+F=ÚÌn>ßv>ß≥=ÓÅÅ=’}¬=ˇ‡‘>ó>
+2H>2ó=ÀJ=’N≠=˙ﬁ≈>r´>H]=Û»[=Îˇ=Ù?∑=‘◊B=Îóè=˝â‰>„o>A=˙◊3>xú>&†>ø>
+:y>®G>Îg>ës>ÅB=«=˛æÄ>Æq>èﬁ>
+ >~¶>SÁ>Í>Y=¸’=¯a>°Ú>	Ω=ÒÔ>€'> PV>cµ>.>	\“=‚~€=Ê€_=˛X=Ú0¸=Ùo¬=¡≠=’T>Bë>t{> >9⁄=˙©ﬂ>/_=˝∑r=À’=ÍIS=ˇß2>Ë>¨d>FÍ>ø∞=ˇ#>Lã>	N>=–≠µ=«m>ô2=ÒZÊ= Íﬁ=¿<d=˚H>aó=˝¬∂>f¿>”Í>=˘ï≥> ∂Å>∂=˛åÓ>Â÷>ø«>	+> •“>Êê>d˝> œ`>/˘>Ô=˚ÂÃ=Ô€=„RX=èâ>ø>%Ê >°⁄=·û>ûˇ>Àz>sW=Òπ>áï>«>ØN=Î∞I=‘/
+=˛˘í=˘˝ã> ∆Ñ>≥=ı®√=Ûì=Ê¿&> u¶>
+´Î>2=ı§˘=ÓR[> £>Nq>;k=Ù=Ù\≠=Ï˝>TV>£î=˙èm>⁄e>é¸>i>æú>MÜ>Zà>⁄á>ê‡>∑Ç=ÚÒF=ËÛ∂=Ë™->E©>¥=ÏÄ≤=˚∆>∏ö=ÂπÀ=ÿº>"*=Ë-¯=ÿ∂˜>	67>ãœ=˛jK=ÒG⁄=Û÷=˝À∏>◊>
+ƒ">å¿>Ì'>!›¿>5Ê>gy>±Á>ƒ«>u&=‡`÷=Ê,=˜Ùü>~Ü>∆> ı=Óã‚=Í1,>«ë>‡Å>XÃ=˘ÃÔ=˛`&>§{>U»>∑∆>>!>Ã5>Ü˝>±Í>±>/l=ÏU=ıΩS=ıÙí=ˆ∂Å=˛◊3=ˆ~Õ=Á?Z>_>@=˝:r>Tß>U=>àö>ª¬=˚vS=˙_>wè=˙ªÓ=Ôp¯=„ÛÆ=ÍÄ!>«Ë>◊Ü>	ó∫>≥^=Ë$f=Ù√œ>“l=€ÁÓ=‰bµ=„í{=Ù‚(>J˛=Ùfà=kØ>hU>!|>,ˆ=¸ñå=Û¬:>GÂ>Ì‡=¯T=‰ "=Âg=Ó¯> >Ñ>	œı>\ =·ßë=Ëå•> ?=Ëÿx>µã>fO>ı>/=Í~}>	>ã>∑	=ÂÍ>ı#>u>õ‘>DJ=˝ J=˙E›=˜Ë>°>≥Œ=È-=„ÎÛ=Á÷G>Õì>	Ì0=ÎÆ`>©>|/>4=‰åâ>Óy>õ∞=˛Bj>˘í>èQ> xº>ı5>
+V>πÒ>`†>
+˙+=ﬂà˙=ÏF\=Ô∞>w>æf>u">`Z>.P>≥∞>d´=ˇ°Ã=˜nΩ>Ÿ«=Ù™>˝V>ì£>˜=ˆPΩ>íÏ=˚q> >7™=ˇC>€d>
+rÙ=ÛJ‘=˘>{∏=˙ıG=ÙÚ=˜
+$=˛2ï=ÛÙ=„kN=Ó=>'%>◊˛>ª	>:?>êÂ>¥Ù=¯=‘=˛çg>◊’>ƒñ>_> O=ÏÆÀ= 	=¸≥â=Ù‘4>Vd>‘
+>Ûö>>F@>¥;>|>§9>ÿ‡> Ÿ>°Ò>	ûÚ> Yh=Î:=Í'>,>ü]>8É>	Jh>Ò>>]«=—a≤=„∏ã>‹Ò=Ú[ñ=Ê˝I>k˛=⁄$•=¬<>jE>H™>∫ü>Ì>‘J=ÚY=‰í¬>ﬁ	>”_>	Y=ˆË%>¬X>
+=ÛÌô=˛5>¨ˆ>-n©>)Õ=∏ß5=Êcæ=¸A=ˆ=˘ØŸ>—ÿ>Óv>¸+>">Bm>‰S>◊F=Ôv>±=ıDÏ=ˇæ›>|§=ÛÊw>W˝>)ø>∞V> ¶Q>Â`>|G=ﬁDÍ=˙Ú¬>	±Ÿ>·w>∆>M÷=ﬁw=¸v >	Âá=Ó˘’=Ëö>i>É†>&6=˘D=˙≈‹=ˆ‰ı=˙)ˇ=ÏG=ÍÓ>˛>B†=ˆÛÒ=ıN=˛z%=Ùû∆=ÿ◊©>Üe>|=‚XB=ÿW=ÍD>Î¸> Ç>+> Í=>	∫—>ƒ-=Ú!ô>≤	>•>Û[>µ!=Ìû>µ>Èg>oÉ>8ü=ÌÊ…>«x>@B>n>	ùØ>	œR=ÂÿB=⁄;®>	ó°>ù4=ı4–>§Ã=ÌÓ=Î =ÛÚ|=ıæ◊=˝Åı=ˇ¢&>4o> .´> ¯j=’A»=ÓA>)u> :
+=„sZ=«ÏD=Ÿu=ﬂìÏ> a+=˙√≠>	eÈ>	qá>,=ÕÜâ=™ª
+=˘“Â>~0>>y±>l¢>%Á¬>◊Ö=˜ÉN=ıY =ˆ'◊=˝ro>oâ=˛ßÔ>√)> ˇ=ıv2=Óﬁ—=‚ª>◊k>H¥>	E>	zø>
+< >è
+>
+4B=ˆ2—=Ûäp>ﬁn>„>7<=Û =Ìˆﬁ=ı∫Å>∆>	Ñ[=ˇ+>æt>%’>\Ã>"∆1>πÏ>Kâ>e?>™8>˛R>$¢U> Ë>A	>–)=˝xÄ>0E=¯q¿=Íb.>
+/”>·Á>ä>ﬁ˝=Í⁄8>jï>√L>ˇ>â=Íxg=Œät>uî>#†¿>‹>Æ∂>	 £>	ª¸=ˇöñ=Íîz>Ω>¬÷>(é=˚Û =ıFO=˝Ñæ=·=·∞>˘>=ˇsÚ=ÊÇ=ˇ¨Ç>i`>ÏØ>%⁄ñ>14˚>&+>»/=ÿïW=ŸÇK>Eñ>
+ˇ:>ô
+>4˝=◊k,>Æ!=Ô·=%ﬁ>/b=˜h~>§˝>iW>Õ>¡_>é∑>{ä=ÚòP>√≥>á¢>h‡>J?>Ÿ=Ûˇ=Ì è>πè>"∆*>ı∑>‚H>©,=˚»t=ŸlN=ÊA©=›G«=⁄üÙ>	0>&ï>µI>…i>–—>Ç¡=Û~q=ËçÆ=ıñ¥>îE>	Í¬>Îë>A@=‡˜á=Ïo>7>·†>‘€>Óç=Ì+=˙:> ÑE>Ò?=ﬁa=ÊÂì>Ò>§ˆ=ıù^>ì◊>´=¸Ä—=˘¡˛=¯uÂ=˜"=‘·^=È >3ë>2É>/Ê=Ú‚è>FV>	vµ=ﬁë‘=‡Ô>Øˆ>	Á=‹vq=ÿ¶Í>L,=ˆ‹∂>Æv>wΩ>zx>òw>±·>!√)>d> ú> 9>πu>°–=ˇ⁄=Î √>Õ~=Ò$æ=”ÆÄ>ÎI>Ö†>“2>T⁄>ÊË=Ù]$>f–> ös>æV>˘¡=ˆ=’˜¬=Ë˘Æ=˝w>^£>ª=ÈX®=¸BG>J)>-∑=ˇ«ç=‚∆≤=˚ı,>
+Œï=Ï6ı=˙ºl=˝˘ò=Ó≤=ÏΩq>À>„}>é>5>
+O6>’ﬂ>ÍÙ>Íf=Ùz˚=˛√=÷ï¯=‚_>	+¯>N5>?Ò>|◊=€ã=ÁÏÑ> á“>Tz> µS>éâ=˛Î=⁄ÅÇ=Ï°√=ı˜Õ=˚\A>ñ¡>Å>	÷y>ùé>är>f>*µ>
+Vi>ßÍ>Ñk>lˆ>Ù>‘•>˙≈>	z¡>}Å> Å>SÖ>x˛>
+:=‚…= –§>qæ>!ß‰>*>ˆ>õ">ò(>Æ
+=˚◊>à=¸∫Ä=ﬂØZ=˘©ƒ=ÛWx>2Ñ>9∏>	H>≤õ=¯A>ñ¶>ª~=Ò2Q=˙`Ç>û°>å2>d›>	Ú‰>K∫>˝ù>
+Ï•>û∞>o>ˇ‡>Àø=Òu´=˚Ã>˘ã>>	›’>QŒ>x∂>5¶=¸Nx=ﬂ#™=Ò¸>l%>"R> ØÚ>çl=‹Ô=≈å‹=Ú>P?>Ä?>:> Y†>Ω9>ø§=„¨%=ÿ„S=ˇÓÈ>¢~>›>
+‰(>(ß>Jñ=‹»C=˛˝P>˛Ä>∆a>gÑ>^‡>Y∆>◊‡>™W>äÅ>Ìr=◊[%=√7©=Ó∑#>õú>Œ√=ÓÏ®>&å>≤ç>
+=?>+"=·©a=„Å=Î/e=˛,—>Qj>#ç>Ü·=¯zO=ﬂhJ=ˇ’–>‰C>	óh>ø=˙N=·0I=ˆy=‘[Õ=ÌUå>i6>
+:>òˇ>ê6=ﬂΩ⁄> †>ãµ>Ö>A·>
+ø#=ÌÙx=‚ˇõ>∏´>π|>&g>ª-> ∏,=‚„%=Ω≈£=“ó’=Ò!U>6>È©=‰Ùf=’MO>¨u>…>≤‰>}ê=€%.>&.>ê˘>ªÎ>K=ˆÓƒ=‡Bs>	tA>JË>§`>mh>≠>∫ >jF>XÈ>kÊ>H≥>&¥W>*∆>P9=˛yú>≥=÷R=ﬁ c>B|>‡ñ=˘±=‚==Ú”=Â=‘>7Œ>i@>
+˘â>≥Œ>\µ>—=˝¨5>=>L=ˆ\4=µ$>
+4>’">°í>62>E)>÷P>ô…>©=ÁqU=÷ü4>	ﬂ>Ï">î<>zM>á}>	ß¢>Ÿ=¸?0=Ámï=˘ò≥=€&…=Ò∞Ü>9=˙¿>	#b>¸>jõ>úË>|>ev> h=“‰>¢>*Ir>-≥I>œ–>R‹>E >∫ˆ>	_>ó>Æ÷>
+Jå>EÖ=˚ôT=˚D∂=Ú	∑>‰>∆b>	|Ã>˘=˝ùº>ßB>ëà>¸">≈Z>Â>¢y>:¯>=‚ú=÷ˆA>+w>
+Ü=Âé =‰ºï=˜Y>•z>ﬁ>
+∞>^P=Ã8ô=Ÿµ >D…>É=˙Tç=“=‹n=Õ_z=÷)√=Û4>k>†±=¸a!=Ù¡> Ÿ‡>ÍJ=Ÿé±=˘„&=ÿ«R=ÿë›>¨ï>&Ç>!π> â=Û#›=¸Vá=ﬁ“^=„\%=ÛB∏>ÑÅ>‚˘>>D>˜ç>›ã>
+|U>6z=÷Í∂=ËŒ≤>J¥=¸°=˙q>®==›‡>ö€>0 >/Ô>$-ñ>B©>‰g=ˇ,> QÔ> E‡=ÃCP=Ê≤Ÿ>t¡=˙†Ü>Gô>€‹=ÎÇÖ=ÙÂ>ó,>ı=˙ﬂP>◊\> È =˜*‚>Âô>=Ïöz=ÿ¸∆=˘ÿï>	Cœ>dd=‡ªG=Ê∑>
+ï> HZ>t>
+ªö=›=Ó0=ˇ{=Ó–"=˜b=ËMŒ=–Œ?>Ö˘>(∞∆>&“=Ìí> Qk=Áºt=ÿMF=€°⁄=Û,0>vk>¿¸> &w> ¥_=Ö> Öâ>°=˜=Ç9~=§4◊>ís> sÔ=——à=‘<¶=¸¥V>	íù> ò}> µ>«5=˙Qı=Ú>—=ﬂà¢=ˆèú>4Q>ˆ$=Ï‰ç>{£>¢“>`≥>	ôÉ>0∑>î≠>¨•>Äx>±>D>/> (…>≈ø>	¥=ˆÄ'>	‰=˝¸>ı>¯B>∫ü>Å√>Ü =Î'Ü>
+pR>∆„=Ú:≠=ÛﬂH>œû>HΩ=˝¨„=ˇj=¯'Ö=ÚÓ)=Ì∂∂=˚˝Z>	=ÚDY=˝k≠>	â8>Úh>Oe=€ÉŸ>/÷>!}ˆ> #w>Ì)=Ôî=Êﬁ=◊^ =¸™ˇ>Kø>ä=ˇ™•>Â>Ù>√=˜?x>
+Ø˝>›Æ=˙º=¯o‘=¸Î>ò0>µÕ>g>"U>i˜>äO>^Û=˝Ÿ≤>0}>|˛>Öõ>∏µ>°∞>\ø>5{=È≤Ó>[ï>6%>(ˇ:>@™=˘ôs=ıKB=®ù.=Æ+V>ò=Ú7 >	:4>ç¯=˜"ﬁ>“p>_t>%>ht>¬_>wG>wÿ>F>	¸y>
+‘)=˚˛·>∏Ô>—>
+ô˙>Lı>≈[> r7>%`>zp=˚‹Z>nÓ>Tí=Ì”>3C>Ì=Û#Û=Îl>†B>(k>[‡>çô>ú÷>=‰´=Ÿ÷ª>	g>	ò=Ùå>∞ˆ>
+=¯Œ=Ïü¥>E¸>Ç=ˇ6=‰c=Û:Ë>
+P>2±=∞bW=Ï>å>zö>º>÷Z>±˜=ﬁ 0=√ﬂ≠=¸Æ$=Ït=Ú+>ö=˝lA=ˇò=˛F⁄>”=ˇ>ªs>ñ§>¥>ıa>÷>∫>{N>r¸=¯€ƒ=‡Ò]>ÃS>=‹Ly=›y;=˙Úã> %˝=Ú∆j=˝qÿ>	f≥> jÑ>‘M>Æö>ÇZ>»‰>3g>.7=˘oÕ>	
+q>
+7r>”8=€îª=“8A>› >W™>¢À>t^>G->¨s>“Q=·â=⁄è>>®>->	=˜≠=¸Ó‰>ò£>‰f>Á"=⁄_P=‰£A>	dÌ>ÆW>É=Ï¯ã=Áân=ˆ¥>€h>JÍ>
+¿®>v >
+L1>á=ÈÍÖ=˛D=˘«ß=ˆÿ;>ìy>ÿ¥>µ%>&=ˆ+u>!≥>j>w6=¯t4><>°Ÿ>ø1=¸ÿ =·™à>Äí=¸ˆá=‚@à> ˝O=Ë¡™=Í«>¨6>‰ü>_[=‹_u> >	Z∞>„ê>K)>F=ra=Â=“#∂=Ú¯E>	y> ú=ÏU =˙3∞>ﬁñ=ıj’>k>]ı>KB>Œ =‡•ù>$ÁØ=ÓK"=øö=‘‹ã>Ô˝>á´>Á>àî=Ô˘>ö>˜Ÿ=Â"=‘yœ=È™ò=˜£œ>Yõ=˝O=ﬁ[¶>bÉ>¥x>	…>n>8f>‚¥>üV>Cò>ﬁB=˙”æ=Ù ˇ>–>h<>'†u>›£=˝}Î=Óõ>æ>∆>	ª >5Ω>4ä=¯Ep>i#>à[>ƒ∞>ïB>	ã>ÁK> ﬂ“=‘Rõ=»”ç=—¢=Á≠Ú>Oz>‰È>ı->Üf>
+`•>hf>jp> ~>‰=Úﬁ’=¸ ≤>I_>ØL=˛=‚P=˜´>En>só>å¶=ˆ?K=˘ìó=˛µ>õ£>√t=¯ø!>!Ê>â√>gˆ=⁄\=ﬁõù>RX>  =Î¥‡>0§>sQ>	êí>Íì=Ó
+‚=Ì—> >!"=˜Ã=ˆN9=˚Im=ÊT˘=‘G=˘ïŒ=˙I:=Â⁄™>	‰C>Ì=Í‚,=÷≈=·)\>Ï>
+’=ÏÒ√>]Õ>Ωú=Ò:#>	&¢>¢¶>K8=ÿK∑=·á=¸;:>y>z>@¢>˝È=ß´s=±€€> >h >µ˛=ˇ>_=Îﬂ=ÚÚ∑=ÙeU=˜	=˛ü•>⁄>tÿ=˙MA=ÔÇ=Û≥\>¢ç>ºì>hf=Â‘¥=¯¨J>eM>Åw>
+Æ>ﬁÛ>Ûä>	¯V=Ì“>ì√> ÿ>g†=ﬂo=ÏE>ñ_>À‘>Ôá>€Ë>Ì∫>I>KS>Äg=ˇ9Ó=ÛÌ >ﬁV>Çã=Ô>X,>yî>4K>Ωæ>b>)¶>+Á>áˆ=—.\=‡Zb>dì=˘†ú=˛u“>¬s>;>¶"=Òı=õ∫=˝Œu>É¥>	ŸÌ>ÏÅ=˘ï‡=¯$ñ>> J‹> ^>/i=ˇP‹>Ωâ>æe>9=˚Eº><b>ÊS>q˜>√È>ô?>[l>K>ûæ=‰,Í>e¨>'«=˚f›>ôÈ>>T>	"´>ç>'!È>E˝=˚Â >V>¿®>èj>6(>”Ï>áú> ä=ı=Ú¯ˇ>ù∑>Í⁄>ÉS>◊>h>\ß>	è>~p>i©>øR>‹v=Û*æ=¸Ÿ>Øå>~–>É>hS>6“=ÂﬂÜ=¸ÃÀ>s?>ê^>0Ï>\>Än>MP=ˇc/=˛D>Æ> 
+ô>>>B>>?">'->≠Í> Ò≥=˛»U>
+«>Üm>t˝>h>‰ı=˚cF=˜z>}>√E=ÓÍy=Ôî≈> /A>⁄>©>t>ﬁ˝>Ï>âñ>ﬂ>!4e=ˇ√|=⁄∆.=ˆùà=˚¬Å=∫‡=ÓΩ>Ø2=˘∫ã>&ò=Î]π>s>éÚ>1ˆ>P5>·˜>rD=Ÿ∞≠=ˆ^|=ÓSB=·ı=‘_>=‚÷—=ˇ¥"=Òı> J˚>‘=˝h2=Ù—i>§=»Ös=‡>FR>»ù=˛B@=˜p=˝\∆>úb>(-˚>Ù~=ˇaç>kó>¨Y>•Æ=ˆÖÙ=Ì›—>éO=p=Í>==Ù˜S=ıˆ =Œ•€=ËÌ>π;>=}>3ZÅ>$bë>>◊ß>ï>ÈŒ=ˇF¥=‹çÊ=˙A>≥M>
+Õˇ=˘¬?>≥Ó>R>S,>∑>{>◊Â>$ >®%>Ãì=ÎÀÆ>òá>b•>5ª>§[>‰s>+>!I”>u}>
+´6=˜Ë≈>˙7>
+H—=ˇ€>ı¯>Œ>#›m>/ﬁN>	ú[>ly=ˇvñ>Aá=Ù,¢=ÒOM=¯;=ﬁ.ˇ>—s=ˇ>J€>8Ú>	w>™π>>Ô>óª=˚¥ÿ>Ù∫=˙ä=˘⁄>π>
+˛
+>>ñ=˝SR=¸Ó∑=‹≈—=ˇk±>ÓÖ=Î8œ=Ì˜©>≈>	ìó>£ÿ=ˇ&7=Ï¥[=ˇ˙Á>]ï>Å=ˇµ“=˘¥>é>Ö%>pÎ>3>tA=˝Ju>ªï>ﬂE=Âë=Õˇ≠=Í&∞=ıÛ„> yâ>	Ÿ¥>/>
+∫z=÷>„>#>æ3>vé=ÏÏ=…ñ\=ÏÖ4>—~=˙ì∆=ˇÔ‰=ˇ@N>;g>AÅ>'èL>Æ√>≈B=÷oH=‹-S>•ú> 10>æ°>§∆=ÈóB=ÂLK>®î>À:>M>	Î{>}+>ùÊ>¢>Ôã>0N>˜ª>x∏><Û=Ôc=ıú>>-s>Ω@>Uí>	S˝> 9O=Ë ==—¸>t”>Ò>=ˆb=Nˇ>S>'Á¯=˜ËD=ıπÄ>=ˆ‰±===Ô’â> Tõ=È8å=‰∫¿=·o›>
+%¢>v¯>Pä>€ä>aî>…k=Ò Õ=ŸõQ>Ωˇ=ˆP=˚\å=Ú—'=ÂAà=÷§E=Ëg∂=¯ó=—nu=„√==Áé=‘rá=ÔÖ£>,J>W4>%"Î>'ÎJ>e9>Ùñ>•B>‹_>Ç0>/Ø>`w=ÒN}=˜s@>öÆ=Ú›√>ôÁ>ãØ=ÏòÄ> Œ>#<>â%=ˆ 
+=ıÁ
+>?>kd>2ç>	Sø>≠¿>Íì>°S=˘†î=ÚÆ>F[>V>ZÑ>ç =ÂG=Â–8=Ê≥u>éE>Ì≤>»>6>O:>FÉ>u1>‰->–æ=Ïî[=ÕWw=ˇÏÛ>¡=ıu>ﬂŒ>({>„ã>#Jc>fZ=Á@®=ˇö»=¸Ê¢=˜WÏ>	ò›=¯∏>û>S“=È@L=Úw´>
+d›>	•Û=ı(<=Ãüﬁ=“˙9=“j|=ˇzÏ>ñÛ=˛}>fJ>ß‹>	´c>	˝H>»¯=€y=Ëø>,=–â=».U=ﬂÄ>∞*>†>∫∏>‹ø=È—>‹> Ìg=˜ëÕ>‡Ô=ÔC™=¸·v>vi>ˆˇ>>î=˘H>{=˚C„=≈ÊW> ,I>U>‚=>=˘Òâ>
+D1>ß¢=˚∫õ=Ô©°>¶ﬁ>H>·ﬂ>éÃ>È>
+‹=˘jö=Í-ì>2b>Ä:>§∆>
+õ>ß*>x>åÉ>≤=^i=Óï3>†≤>M#=€2å=⁄£Ü=Ë√=˝è>–#>/«>4e>Cá>	0(>’∞>ÓE>@L>æ-> ¯U>).ﬂ>ºŒ=¸ª÷>Û	>(p>"ì>®≥>(Z1>#ñ>IÖ>iV>Î=˙O≥=˛kÃ>	ÿ=„ªƒ=ﬁÂ–>la>πa>KÊ>
+->æ>
+ˆ/>UÈ>Cô=˚#>2=˚ÿÈ=ÌÉV>∂7>Z=Î@ > >|ö>Æ◊>≈Æ>v`=¸≤ó=˘Ø˝>Ÿ>QÖ>¥(>ë>Q¸>ƒ€>l>‘ë><>[º=ı
+u=€E+=€€Õ=¯¨Õ=¯`>• >áÂ>ˇÇ>¥Ù>ﬂ=‘=˜Üô>[>t~>˛->f!> >à˘>&‘>!¶L> >	Ωˆ>'>!∞g>˙r>(">A> ¢&>hÖ>•¬>¨>NE>Í>Ã∞>1
+>≈∞>¬=∆Tﬁ=π"=˜J>qÓ>Ò>‹á=ı≥ >ıò>´D>	0π=ÂÚÎ=∫ﬂ =ÂÄK=˘ï>Ái>√˜>±%>"ﬂ∞>Uá>⁄ä>Ô>#â†>vÒ=¯¬`=Ì≤w=Õî¸=ÂÏ`=˙ù>ˆí>Q˝>	Ï[>5Ë>â)> ≠>9°=ÍŸ=ﬂë!=›ú5> ®‡>Ã=˚√∂=˘ >	G–>˚>–t>%Œ§>W[>Na>Ó•>	K> mΩ=›¶∂=˛ùç>§t>7=˘Ñ=Ù¸> Ã=˜‰∞=Èé>=Ïâ}>ﬂÌ=ˇ±Z>  =‰à=ˇK∂>¨Ì>¿ƒ>0≈>∞˙>	S>"©>y¸=‰Ëa=˙Ú(>#≥>÷˛> §=Èöi=˙NU=ı–V=ÙT>2í>
+´Å>}æ>
+zq>CN>ä¸=¸™‘>˙ÿ>vi>Jä>rı>¯æ>∆9=Î>ì;>‰∏> ïë=˝
+>”‚>/º>¬W=‚ê]=Ïù8>#&>/g/>6æ=ÚJ;=Ô~»>¿L>JÎ>ÑE>f`>ZÏ>ÛI>c>4£>…%>+ô<>-¢ä>Y=¸+Ñ>¸>Ï>+R>Û=Ó“ò=ˆª=˛NW=ﬁ≈>ùÕ>!◊ù>)[:>˜W>‚Z>"p–>ˆò>	/h>RB>=¸û=‹TT>œ6>+=€í=÷D=‚zF>˙b>¡†>çÊ=ı~>1=¸O¿=ˇw"=¸Il=Ì°8=ÌL	=Û˚¡>	{Ã>áı>L≤>*>æS> `> úË=ÙM©>ˆ:>®•>rÖ>Íl>f¿>øÚ>„>	ı®=Ï%ª>…>"¬π>œÆ=ˆ1≤>∞>'≠M>C/=◊ê©=Ú7>QÖ><~>G>+Û>ˇT>@•>=˜§d>◊0>=Ç>˛Â>‰j>v£>]ä>Ëœ>Çﬂ>B»>&ä>∏¶>,>Z]>C∆=ıiz=Ú0=Òà⁄=ˇÑô>KÒ=ıå=≠>∑=¿ºÿ>—:>"ÃÜ>eç=˝V>;Y>‘E>	ö>°>dj>·>“8=˘<Û=¸ﬁ(>4–>·U>v>	∑">  ÿ=ﬂJ >ª>‹Â=ÙYW=˚Aª>1¶>/A>j'> ’|=úà=∑H>◊®>	q~=˜z˘> cı>pû>Æ'>E™>∆§=Ú0Ò=≈7Î=◊©>	õ#=Î,~>"†=˛cQ=¸«˙>˛>	≠4>ÿ=¸=Ëë@>≠G>m•>·,=ÙÂ„=‡Qó=·¿ó=ÈÛd>ål>¬=¯Ã~=Ëöc=¸√=Òﬂy>
+Õª>E≥>g»=Ôÿ> _X>
+nµ=˘~Ñ=Î™‡>4>HL>˜˘>*‘ü>dX>Ôˇ=Î¨å=Î–Ä=˜áQ> ‰K>¨ñ> R>÷b>Ÿ™>> 	=∫·u=ŒpÙ>»>g%> F)>\> Ω˘>KÜ>Ê#>‘Q>”é>™>R(>M¨>ï
+>Ñ∑>;Ö>5¸=¯§f>î>)9É>Nî=ıË±=Ÿ%d=ˆÙ>ÊT>C8=ÒÜS=Ò(>Ê,>sÇ>	˝é>ße>¸≠>±ˇ>2=˙÷=«÷
+> PÇ>/>_>
+s>∆˚=¸7:=ı›-=‡ñ·=˘c>y}>ø0>∂u>(∞>€º=˙.á>∆‹> ãΩ>°ï>Qü>xX>}à=Û≥-=√Ä-=¸S
+>Ú=˚î;>Ë> ˆ#>¯> =˘$#=˛Ö¢=‘¢6=›¢=ˆ≥W=Û,©>bÓ>[í>∂¨>‰º=˜ Á=Ò¥>Ï>%ïÌ>m†=Ï-ø>ÄW>£[> ªõ>ö∑>âæ=Ûb=ˇHl=¯ƒÃ=¯(1>5&>*ã>ø>b> >$ ≤>πZ>°L>fñ>J]>c#>¸+>oê>æa>où>úØ>∑©=˚Ú7=˘'…>T>'7>∑>me>	j…>:¥>¢6>"Õ> D>Tÿ>÷k>}">£>+È=ˇÈ`=¸Ïì>ü>H)>"\>i>Á’>‘¢>∑¡>7'=˜©Ò>@l=˙ù> ê“=◊ﬁ~=Á:>	O>>≈>ˇ∫>y@=˛&>ûŒ>∑=˝ˆ~=Ëii=Û≈>>m>ÈL=ÔÚÙ>ÄÄ=ÊÎX=˙Q!>)^>π>ÓÓ>È=Ê]u=ÊÅû=1Ç=Â8Î>ì>>û)>±*>¬H>
+ªm>©ˆ> *ö>ıâ>Ω>∏¢>∫S>	Çn> J=L_=ÈÌ¬>.>ƒ&> si>#=¯5g=ÂS	=›z=›—+=Ùe>‹>¸¨>ñ{>	Ï>
+‚">º3>	Aô=˘ﬁ>πà><> „3>ê>#P>Rq>2ﬁ[>-p>.b7>(ñ‘>√t>º9>"Bd>%SV>.¿“>3ë>^S>Ì˝>(}> =Ê{1>íÔ>ß‡=¯<Û=˙,A=˙Åt=Ûù˜>GÊ>t«>œY>ól>H>>∫<>xÁ>…∆=”
+ó=œ-¡>|1>˛≠>
+Â∂>∞¬=Ë˙m=—ï◊>ËR>˝»>0≤>ïQ>·=Ít=Âd>˛C>fl=ËDÜ=Ó∑=¸6O>ìÃ>4=Ò<Æ=Ê‰x=ÊË>Ÿ+>ñ˚>¬9>Å> —s=˘ =˙ŒI=˝Wô=Û
+ò=˘>
+∏Ó>Õ?>;π>+>>ïÜ>€±>D±>!7>_n>âú>?ì>ﬁ>i¢> >÷ª>æJ>º\>)≠p>¶å=ˆ∞¢=ı◊ç>‰‘>M>Ö9>(e'> ax>ÎÒ>†	>±> YÌ>!«`>‘Æ>%◊>3§>&~œ>NÙ=¯.Q>π;>5e>‡
+>ìû>™<>¿á>≠;>÷Ç>°>j˝>◊>Nî>∆∆>»>z>Ú>T”=ı7˘=ÛÎº=‚ÿ=∆>¸=Ù==Ú~ß>Ï˝>ºL>ÅP=Âπ>
+>&Q>7>nÑ>≈–>°$>$ =¯¢„>äÀ>cÓ>X>H >	68>ÄÙ>Y	>=–í¸=ıÁ%>"UN>(fª>ùø>ß>∫≥>µè=◊õ=È<t>FÛ> ÿ9>˘∞=˛k9>æ">![Û>:à=˙πÀ> >:=›Œä=Âhr=˜Ël=¸
+P>¥û=˘rh>¬ª>ÕΩ>&À>Ñ+>nY>√D>>∑£>¸œ>â<=ÛûÉ>Wè>_B=Ëü»>ô*>Én>∑N>Zo>Ÿ¬>‹ú>Äœ>Â>UG>+∏¶>J†>˘>!‡>(ä´>©«>è>%∏…>⁄ò>¥;>/'¡>$Ñƒ>
+¡ü> €h>:πI>4«J>Õ{>ı6>ÿÕ>.—3>*“+>
+Y>¿⁄=˜)">›=—gì=È(±>ú=¯k<=˙ˆ∆>‹‰>~=˜:Ó=˙9=È%≠=“˘I>u>•">*L>
+ñË=È∫(=Ì$i=¸˙L>≈=‚»=÷Î=ˇxF>
+õó=˚‹>
+¢N>€>ü$>…>
+ﬁ∆> !> Y±=„Y>äò>õ=‡ÿƒ=‰v˙>ø<>Êq=ˇ4n>lì>”“>m>È'=Îje>ó–>f:>‚¸>N=¯úÌ>ÿ÷>=N=¸g–=‚W`=Úûå>	§>åu>
+“f=„ç=ˇö>Û=ÚzÄ>üæ>Ùÿ>««>QA>É{>,˛„>"4> 4˙>;î>Ö.>Ö‘>Èv>X>ù$>ø>.)`>=‰>ú<>ﬂ>NE>%Ü><H„>3vK> ™>v∞>&ø>)Ï>Æ>"≥¢>≈é>ƒ>m¢=Òøx=¯n‰>z∂=Ì¯ƒ>	˘ñ>®B>#˝0>«>/B>öÕ>˛">F€>4–>$gõ>"ì¶>!„>¨⁄>†ô>~¸>	É>
+Ûù>„‰>n'=ˇ∑i><ƒ>i">r=Ë¨=‚,>≠`>ô>>4∏>˝=¯x=˝ä˚>(>¸>q=ıU˛=˛M»>È=¯}P>ﬁ_>E>0’>¿B>íà>ÅÛ>qÉ>áq=˝Ç0>ã>	¯+=Ò†æ=⁄1c=¸Ö”>
+?Ç>	4>ä@> LY>
+¶6>v∂> °)>¸>
+Ù=ÙãW>	]	> °ˆ>é`>óæ>
+¡>˛>§	>•∂=Ò=C=Ô'>4ó>ƒõ>5U>"°[>q“>&Zñ>3œD>0Wz>3>∏ç>√n>(u>!õˆ>!«ˆ>Çr>6{ò>;Ç>(¶Ê>®K>…Ÿ>'°ø>c> =Ä> QÎ>ä">â˙>/ûê>-KI>â[>a>⁄æ>¸$=˛“>{é>à¡>⁄>#*>Ú=◊ìR>8Ÿ> *ù=⁄¢*>"i>ƒœ=Úa=˘›9=˛´v>ï˜=˚ß#=ÔÄj=˛‘>°V>·a>5o=˛©ˆ=Ëy–>;+>Gh=‚À=˚`ª>b=Ì±Ç=Âæ∑=ÒH9=Ù¬>
+É[>∫«=ÒN=˝Ÿ”>ˆ∏=ˇõ¥>≤‡>è> ˜>áJ>!dÆ>äí=Îcy>‹>∏Í=Â>
+>W>˝>@>%>06>gl>HQ=˛‰˝>Ù>ù>Ö©=˚>Æ>EŒ>ô~>Ô…>xç>≤>â'>ú>´O>•b>∆O>#sD>4Ê€>1V∫>*·>}4>'_'>0ØC>65Ö>H#(>E∆&>.∆>!‡g>2≥9>2#>'#À>6cä>H∑G>Dhã>>`6>+0`>Øm>8Ô>'}¯>'¨ù>Õî> ë=¯3>	t.>#uº>ª÷>KŒ>õK>πU>ki>
+>->ß
+=Âå°=∏Óö=”(9>˘ >DW=‚hÖ=Ëìi>1_=˚C¸=˜7∆=˜'Ô=‡YÏ>y≤>êØ>Õı>P->çJ=ﬁœ(=”P=Ï3>zu>ˇ>µ>H«>
+.Ù>$˛>	õ>
+K=Ùî*=Â}=>	Ä>ƒ?>ò=¸ae>	•¨>ß>9z>õ›>:B>hæ>¢>=Ô]=Ó’>+Ï>vl>ƒ>üà>Ïê>’>™I>(3<>àS>eO>f√>N>-Ω>¨»> 0>ØD>	ûÇ>%“À>2	">*Ï
+>8¨~>)o‚>.øé>,‘h>l>6ô∆>S ⁄>A@>9é>5üu>1∑ª>NR—>D¯€>$ßm>5RH>[\È>N›¨>>!h>;»‘>.+˝>-çé>='>[z>,^“>"Ÿ>Ú>&|P>âV>æ>‹ù>#n>ûh>@·> ~>Ì]>Kﬁ=ÿ8‘=–œÍ>QÏ>Î¯>
+µb>|±>÷> >>Ë=˛∏O>uÀ>
+∫H>.Ë÷>#Nõ>Ä>◊]>îí>%=˝-¥=Ë	í=Ù9}=Ï¨Z=Æ%=Ôlª=˙K8>ô>G>ÔÍ=ÁbÇ=„E=Ò˜6=ÈÙÙ>T=ÿy∫=ÊÑ> > $3>	bÇ>â'>	'>j>%Jæ>+ß∏>qå>ä⁄>…Ø=˛.‡=›iö=Äé> $ù=ıΩ¿>]Ç=Ò¥¯>ú
+>æ®>ÛÀ>7>Ëœ>$ Ñ>\…>K†>¸ﬁ>&A$>)!>6ñ©>8q™>APó>EM>6¨>&8U>>C>`◊g>W∫>K	ﬂ>G?⁄>N„d>TÂ>L‚ó>AU>FŒ˙>C„Ï>NÔˆ>B∑ü><yk>\‘>L}>Bùò>?`R>=Ñô>.•/>&,>eº>ç|>Ûﬂ>&–^>>
+\˘>©\>x˚>qµ>mî>
+‰> c*>>,¸>!r,>}÷=Ó‰¯=ÚA#>Ö€>E„=¡a=ﬂ®ñ>>å=ˇ÷È>¥>
+U>®>iu>7õ>€5>	_Ì>Å7=¸±B>§∏>èÂ=Ì≠ü= gø>	pæ>B=ÙLA>	s≈>¬û>ÿì=Ú„2=Ò+Ú=˝j¯=‚u#>˝†>è=¸Dˇ>¸>=¯Í’=ˇ:‡>J†>	~˚=·˘=ﬁ©¿>>≥µ>ÿ¥>
+p$>"k+>≤]>a¨>h‡>d+>–π>.`>>/˝)>#êG>3ÿ∫>CyV>*™3>J>Fìÿ>6j£>/p‰>2ﬂÂ>2á>H√M>6‰>;œ◊>CLú>U£ˆ>l“H>wµP>t9>b‰õ>M•>A€=>`3Ù>à≥È>g~.>5Ùù>F≈Û>NPÿ>Ip¥>:¬â>À¯>(Ëø>0n>+EM> ™>∞¢>"–é>
+»”>]≠><ÒD>/=î>O>ø’=Ò‡K=Á<.=ÙaÂ>‹ÿ>GF=ˆyi>ü∆>•Q>Ö=Ûxï=Ûo√=õÉ=ˆú®>–'>qE=‰ä=ØÊ=·Xµ=˙$˘>Ω]>®“=„ﬂ^=„ü=˛Çº>wè=˙%==¸´=‡iI=÷òm=˛Àá=˙”=Ó–>√ù>bÆ>e>ï˛=ÍÜﬁ>Î>+&>
+ã·>G`>`÷>g¶>	{¥=pÖ=Ìª®=Ú…G>¿ >	Ü>Ï_=¸Z.>]‚=‰õö=„ﬁO=„)Ç=ˆ˝í>>"2ü>îZ>'>ÎÍ>).§>9X€>E @>;∑u>)∫©>O◊ª>y˘`>_‰ó>X≠T>h·>r‰">É.à>â>É‡È>é<Ò>û8>§◊…>§ h>ñnX>ó˝P>èxg>w>t˘˘>zÃ1>w∆>dƒ>>Kˆ6>MÄÇ>8`>ÈÄ>ún>,¿:>*´X> >q>-çÖ>¡¿=Í¡õ>>)º∏>d]>/|>¡—>Û≥>x¬>Y>Å/=Ôzƒ=–zP=Ós™>vj> ‹Ã=Û+G=›y&>Ùƒ>:2=‹xM>æf>õ¢>pW>5f=˝5Û>UÛ>M°>zp=˙¸Ì>_>ÎÖ=Êí=¸ò >”>¥Õ>ú>Œl>πN>w>™œ>Ï≥>ä¬=Ô—È=Ì∞©>«<>sÈ=ˆ—=ı•f>∂?>√Q>‹%>%Ÿﬂ>0oë>¢ä>dç>èZ>¯>ü‚=Û—=ˆ˚>)g>*≠S>"	> <>>o°>?∫A>:A>:Ì>L˜>>…e>KÎ¡>|≤6>zŒı>k<>Üƒ_>ñ˚¶>©á˝>≤À“>ÆS±>©7;>™6È>õ∞M>†c¬>≤gä>¶É	>õ≥>îl&>ã>ég4>z≠º>b·™>V.>>f3>3ü€>.c>&$ï>ÏÉ>¢÷>çÏ>?è> Å=˜TŒ=ı˙∞>™e=Ò©B=˚¿	=ˇ%=ﬁ=Ò”^>∂]>YÛ>-´>#!ı>ˆC=…ù≥=Í=¯>U=Òvπ> @∫=Èa=’§X>Õ> ù>∑r>u|=¯9é=ˆâΩ>u>∏s>~>gY>#hÒ>‘ë>¬ú>)¬><Q=˜åú>≤ >Çª=ËÇ¯=ÈŒ4=ı~>Q%=¸®¢=ÊÖh=¯U/>ÃU>r>◊>ê*>#Œ_>>k=˝L>t>	ª=¯)ö>¯â>©+>ÑZ>ﬁü>!∆h>h◊>]ó>ûª>è‚> ∑E>)«>:.ú>84>'Of>Sá©>};œ>çÓö>ú¡L>Ñõ$>ì¬>ªÑz>‹π°>Êˆ´>Ì°^>˙Î>◊A>’ÒÙ>◊B>”8|>’‰˜>∫X>®À{>òÆ>çém>âÕS>áWÄ>vZ>Cæ>6Ä>7
+¯>3$œ>6¥9>Ji‹>FÎç>5V˝>'<Ñ>êç>w“>Ò‡>˘Ω>±0>¢£=∑8∑=√)>∫ˆ>}≈>o<>ma=˝˝π>¬R>GC>Õ>ª>(3>”]>PÃ>—f=Ô∞>⁄:>$5Œ>v◊=‡≥®>	á˙>ÃÁ=˚F>c7>‘>"6>J>≥Î>	ß·=‰Æ·>%>â%>OÇ>>Ñ‘=˜ Ù=ı˙>0C>wƒ>Zû=¸>õ
+=˚Áﬁ>t'=˘Ω0=…ÚË=ˇ¢ë>íÍ>ãl>Í∫>&ÇØ>ÅÑ>î\>XØ>`≈>L>,H5>(B€>=s©>@ä‘>EM(>_Ç>Ñ.>á4G>át|>ãEë>°*¢>Ω–W>π=	>»„>ıQ?`-?56?Ñ?3k?“≠?[?:≠>R2>∆‡>ºÎ·>∂∏Ø>™>àPû>bQ¨>s?∏>n	¥>S∫0>L_>[\>AÎx>,y˚>'ë>§w> ç>(£>*∆>2>(ƒπ>oN=ˆÊL>Vt=¸™=¯Ï=˝⁄—=Êej>+ñ>À=ÒLÅ>L_=ˇc=˜ê>	ﬂ{>>~>œ=˛.	>Õ=ÍÁ=’%R> ’°>√z>¢ò>õÕ>ál=˜[=Ÿk>üÖ>>ˇ>‡ä>∞>=ÒäÖ>
+ı8>ú>>
+>(7=ıd”>êö>
+9˙=Ó≤m> öd>çÎ>úÈ>w°>—~>t<>
+[∞>´>ÇÛ>Û±>	V> ïœ>jé>ùL>öÍ>Ûß>*>#+>3'ó>.˘Å>?(ﬁ>WÖÙ>añ>`ìY>í* >´5:>ê!^>•Q≈>√∏>ÎÂƒ?= ?î?2,∂??fH?FM@?E€§?FÅ˚?FL	?1ﬂ?"!J?N6?Á>Óªz>—x¥>¿‚>¶± >í≈¯>ÑÆ∑>`Kh>HyÛ>0˝Á>"	>$Øƒ>.≠Í>.)å>0Œ–>ÛO>e>ï#>íí>|√=ˇa€>Xè>–Ü>Ø”>1π=Úf)=Ÿ!Ï=ˇö2>õV=Ï#=Ÿ;§=‚Iˆ=Ì)A>◊c>	Ü=◊6,>ÑŒ>º>…∫>
+*ˇ>0>_AœP≈AΩ† >É-H=Í ﬂ=˛7T=˜Ä=˚w+=Ï∏ =ﬂ ‡=∞A>&ﬂ>Zü=˜pu=˚˚˚>‚Ë>
+_>ëé=˘<ë>eã>Cy>
+ê4>**¡>"f>ó«>
+ç”=˜r>•’>Áy>	Rú> .>√[>√Û>Då>-ö®>>Ld>C5%>#F}>-'„>cÅ?>W->uä>ïÅW>§©ñ>´år>≈ó1>Ô b?
+Qÿ?*0Ø?)ß?9Ë¿?p»v?Ç±6?åÕ?ïØÄ?ê"Õ?Å{∑?t“|?dòÓ?EÔ’?ØÌ>¸ôÏ>˘G> Ì>•˙u>ê1∫>Ömí>|”E>Rùü>L†>Fﬂ >:™B>/F≥>¨>6>!õ>*ˇ}>&äﬂ>¨„=Âﬁ,=ÿ;=·N∑>"uú> ø¢=ÏÖÛ>u >p+=˙g\=Û°=˘÷»>£ç>ÿï=ﬁ◊=ÚNÔ=˚≠è>>áã=Ò≤Ø=Ë∑À=˛cº>k>DCDÃƒCöÏËC8πBn©> 6≥=Î"±=˝3ä=È◊L=ÍM=˜∑2>èÄ>µ;>!÷>Ey>≥’>t≤=Ó?™>ëÒ>Å>î§>	Ö…>´™>:J>9q>
+µ>	%€>Ôd>É‰>L>Ä->:á>#€X>“∏>2>©c>+fd>7¬t>;Æ)>F«>nïÅ>xD>êˆ>Æâ›>«¯≠>ı?qv?%h≈?S∆?yAS?ê@¨?≤Ù?ƒõr?“Çx?⁄©ö?—Áv?√ÿd?≥O∂?ù°?•?R<5?.9Q?n∏>Ìû>Ω¯Œ>©≥†>óAl>É~s>`Vû>UãÅ>E>.5y>'æé>$eµ>÷˜>T∂>Ùﬁ>Ω>	ñT>ç•>[>ŸF>1¨>ù√>Æ> §ø>&=<D>d\>>Ê⁄=¸([=¯∏5=ÂÚ=À„R>`Æ>> =ˇà©=≤œ_=∂ù©=¯¥H>—Ca^ÒC±qñCSúﬂBà≠!>.‚=Ú!u>ù>ä=˘†ﬂ>;ÿ>	^E=˝uÔ> QR>¬>òí>E>‡ó>†>ﬁä>õN>!@ù>'W¥>ËΩ>ï0>Ã>Ñ
+>&Á>(Ú·>!∆Z>9>√œ>(m >2>&q>3Éø>2,,>.¸¢>F€
+>gÙÆ>á∑Ÿ>îäõ>¶Ä>÷2“>Ú[r?πº?;K?F–g?âÔÕ?ø~á?·
+@Ã@îf@(¯√@2”≥@*$ó@+3@CÊ?Ÿ≤ ?∑ ¬?îÅ¬?q;≥?;§$?>·Ç†>¬ˆ≠>ÆlK>à“(>_pK>]'>Oà©>E ä>EÏU>0•Ê>'¨£>Aa=Îj¥>Õ∫>"æ>¨@> ÒF>'⁄> Ó>Òâ>~å>:>>
+∆7>	C=ÙJi=Ôc/>Z™>	ú>G>ì>O’>’õ>áG>¬ƒ>M >t>Ôﬂ>UR@ªà@bK@	›?Fó‘>1>|>Ã>%N=˛ÿ]=ÌÛs>2ö>π>òÌ>WC>
+¯Î>7k>
+sÄ>—∞=Ú
+V=wÃ>éc>ˆ¬>hR>P>≥ÿ>X‡>j‘>	™>+3> ›j=˘pg>	≥¬>,0j>Â±>ea>I€y>C˚[>N&>mI>Ç¡Ô>ôcΩ>¡Â>˜PÜ?O‘?486?iÎ?ùÏµ?¬6ì?ˇ⁄§@*Ëu@Q+¸@w7@â›	@Üµë@É}@y|@Lpò@!3Ò@ *ê?«Ô?ôeæ?mÎ)?5Â{?5M>ﬁıt>Ω8k>üX>Ä˜>b˜j>,‹>˙,><-L>µ1>>%Ü8>!f>)î>5=O>.)>.çË>5ß>`> I´>…Î>∏ˇ=˛‡>°0>Ü>61=“æB=ÂbÍ>-~=Ù€Å=Íƒ>k˚>‹K>U0=¯"p>Q>áÒ>@?îﬁ¢?ﬁ®µ?ãB>›ü>>Â=›M+=ÿeˆ> F˝=ﬁ1x=Á¸y>ñÓ=ÒÂs=˙7˛><>WR=¯ë=‘|¢=‰
+‡=Ï√Y=˙$>Wn>WA=Í=˚≈ò>l>∏>&Á>¢g>!˙>&rê>@=˘ˆ¨>y >'0h>&Îü>/,≤>>e >Fcˇ>uœ->õ>™™+>÷…?eb?"áC?[˝Å?êÎ?«Ôh@„∆@2~{@nI@£≥K@Õ≠@‰∂”@Í“Ã@÷ÜZ@≥/$@ê^@gì—@3Â]@_ ?¿ŒO?å¬.?Sû?8>È>U>«Ãß>∞}∂>{[>iN,>l†À>XøS>OJ,>14§>7Ê¢>5zû>lë=ıö#>N£> »ˇ> ç8>è§=ˆph>	«>¯>DH>> rr=Ù‹ë=Á√a>B¸=¸Ëe=˙:,>√Ã>ZÁ>
+—À=”ë=‚¶ì>iy>m…>=Ík|?v#ñ?πœ©?jål>¬Û=Ôì†>ñ=Ò˝=Î~ú>+Â>∑¨=¯™>∏Æ> ,}=¯> ®S>zó>!Ò>>9>ôd>#Œ=ÿÁ›>PÎ>(gV>7ª>˙¯=ˇ†=˙;·>Á>"	>"Ÿ>ªœ>Qî>pD>b>À>9œ£>Aˆp>Vˆ¶>ÇM´>î± >≠£%>⁄ëó?ï%?Cø?z∏Ç?≤†x?¯†«@2≥@ã®K@ø2@¯*JA ,oA8rA9gˇA&˙ÂA?!@·„@ßé@sà…@/Cx?Úÿ¢?∞gÄ?Ä&?0Dâ?LÀ>ﬂ?£>≤Ò >èR>Ü¯
+>|∂>WÁ>;Î>Ù6>5m>5∑}>>Õå>)2ó>-mŸ>&C>7H>.
+Ô>&¢%>â=˙…>$> Æ>¶%=Ò±≥>L>MÇ>Ωx=˚J4=Èg0=Ôî^=˝∆Ö>∞ò>%ùN>V>a˜>[r>–]?GûI?íòÜ?=éW>´◊H>˜l>êæ>k\>÷=ÓªÓ>ke>#≈ç>Ûæ=–3Ö>Ûa> fŸ=ﬁì"=˘û¯>
+%5>êa>Àö>ûH=¸Ë=Ì’?=ˆ∂Å>a>¶`>?Ç>."> ò>Ó‡>e>%Â>äV>;4>?$ê>9Âﬂ>Où>h'r>ëw>ètµ>§l¸>Ïgt?≈N?O¥e?èB?–∂q@§g@oÈ
+@¥#ÍA
+ÌÏADO†A·´AíÄ<Aí§gAÑQIAXú‡A#Sü@Ôì⁄@ßVó@_ä@T ?Õ*?à‰Û?MÙX?—Ì>ﬂ>∂≤D>ô°>zTñ>O~˙>?òË>(qA>tH>A> ˜z>⁄ü>	R‘>->	Ùè=˙±∆>sπ=ˇù=ÚVe>‚´>5>Q>C.>:ü>ü.=Ú/>G>4t>Úr>Å=˜#>ó>ƒ‚>N>O>Âê>"?*÷ ?qË∑?Ó,>èÁB=‡D=Óµ‘=ﬂr÷=ÕÕI=›+=·9==‚ñ>‘[>‡Ö><ƒ>>*A>i>†ã>>	É>	ã∂> E=Ìwj>U(>&/(>B>é>	Ö]>Pä=Òp2=ˇ*;>#Ñ¿>$âÁ>.YÏ>;H‚>8@s>[_.>Ä:c>å÷ï>ûæ>»ó&?óO?5êΩ?\3∞?úÄm?Ôp@>ÕŒ@ö8v@ˆÔEAB¡ßAèzËA¬t A‰%A‰/‹A»	JA†øAo‰9A'WB@›{Ë@ç
+Ø@7ß?ı-?£˘â?fûÃ?"ƒ»? ïï>œ¡}>†–ñ>ä∂Û>É–›>yH>H¯>2˛P>64>%!>Uê>,ã%>>›>s=¯Òˆ=g>±<>$D=Ìûı=ÈPç>Å6>‚Œ>›à=¸ù>ıÜ>åæ>–ﬂ>ÎÑ>4>^à>	†g>√‹>±o>Ó†>	Ú?CI?O3∆?l>ÉHÈ=¯>n> G⁄>‹4=¯“l>á>∆G>|º>È“>≤v=ŸˆT=Á∑ú>rì>Ô
+>æx=ˆ)U>m]>:P>Nø>€d=˜l–=˘¬&>yt> ¯œ>é>
+ π>}û>˙H>"Î6>.UR>5<î>Gf6>Pó}>^ç>áH>>£Ã>‘ê??¢/?2Üü?n∑Ï?¡§–@Ω√@eEY@Ω¿_AóbA|icA≈}¸BS…Bà"B)»B
+P[Aÿ
+Aó˙lAI;A¶è@ß@S„G@„?±	n?d^·?3K_?í‘>’F;>¥|„>çqâ>Zπ.>e◊>J¯…>/Òv>/LY>ìæ>‚á><î&>*_®>9>®O>@‚>ê™>"O;>√Ö>H>äh=˝&>•—>0->	{>ˇô>Ã>^™>&0>èó>	WÆ>ˇ#>%≈>ü/>‡†>’v?F.?C°D?«M>É⁄´>
+">À>#≠>
+ZÊ=˝°f>:>›G>z≥>› >∂„>Uû>¡f>´[=ÒÕ=‚ò<>ím>¥.>©·>e'>â>
+_>´s>%ò>a3>
+ÁÛ>ë…>àe>{ø>è<>#ƒ=>6yî>AÙw>NÚh>q°+>Ö¿>ù,µ>Œ®?EÀ?8H%?ÉÛ?¡¶ù@‡A@o€Ê@ŒQíA2uBAîµAÁTªB!lœB=®FB>öB'¥ZB~◊A∑ûdApàxA·˛@º◊@m™¨@…ﬁ?∑*u?Äc<?<ü…?I>–G}>®Öá>âB>puX>Iê>>∫¸>A
+>Dµ¬>:û>•>	”Œ>…>Ó>≤ﬁ>
+öŒ>∫Æ>!{>(>Â>è€>&ÂÚ>#ä^>¡=>ƒÿ>≤ü>I>	Äé>$ŸÏ>≥Â>r.=˘åb=±˘>‘∂> ç>M>Â"?!hﬁ>‡>zl›>—˜>dÖ>â>A˛=Í˜=¸î›>ú>Ñ›=÷n†=œ>Ûó>	}∆>(n>ˆö>%Åk>ï0>9~>}‘>ÿu>ê∑>Ì>>B`> y=Ìµ>	5…>hs>*>-¸s>8cC>7¨a>2»8>ITπ>C{t>k¨>ó˛F>©|>‹‚ƒ?ã«?=Äœ?êµá?–O‘@›÷@ÄFU@€C¸A9Ù~Aôˆ≠AÌOvB#»dBBÇùBEQB.CÂBÙ Aø∆NA{g'A®@æ]z@l’R@-ö?ΩØp?Ö 4?E,c?≠t>ÿÎﬂ>§⁄0>Ñ ]>xØv>q¿◊>N∞‹>0´Ñ>@%Ï>0q2>'ﬂ¨>“∂>HI>ã>"Õ>‰2=Êlœ=˙8>ı-=ÕÅë=ÃtY>J˚>_R>‘O=Ï‡}=Áqˇ>g„>W!=¯k>Às=Ûœ…=¯ÎÅ> óW>º’>´Y>ıo>Ó•!?  G>’õ;>Vk“=„À=ÎË}=Ò[>	"<>ƒü>“/>->Æb>p7>G¿=˜·é=Î“ô>‘ˇ>4æ>«_>Ë,=q.=·ˆ˝>C=ˇ%Y=‚≈Õ>w>Œﬂ=…l_=˜ç>v—=Á∏>	ç∂> 8Y>,∑>(†>;«^>iÛ∆>™r>âQQ>≤Bﬂ>ﬂ¨ ?o?<0ñ?xC?≈¿ë@£@tùÁ@ÀΩLA-%Aã’ãA’^ËBF¥B+b„B-b˘B∞∆AıØúA±1ıAn=.A•Ó@≥úo@bì]@ó<?æè?~N?3Ñœ?∏>ƒ‘>£ß3>é›X>u?A>cÁg>QcM>:‘€>L>H‰>3˛> ö%>_r>ø>É+>:>Bï>u>>†≥>“	>†H=Õ.=”Ó¡>œ>\k>%Ç=Ê˚l>`Ö>
+Î>ïÈ>îr>ü◊>”˚>Ö=ıâ>^D>’É?e?>ÃDñ>c}[>õ∆=¸óM>0>(˙>©>†\=‰r¥>ß¡>Yñ> x!>#∏≠=¸,=›`Ω=Ú<Ò>≠a>	‹b>Ã$>ßï=Û∫Ä>ª>	è…>·¡>≤∞>">°J>˘>lì>ñ≠>"Zz>+L>EÿU>O˛ò>LgÎ>g≈z>é<ñ>ì4π>µ	§?ß£?:˝©?qŸ]?π≠!@ù•@Yc@≤+÷ALAfEA®‡AﬁÙYB]PBÛAÚ"UA√ãAèöVAAÿm@¸`@ü(B@Irƒ@6?®√ı?nb?8ò“?0ú>◊Lk>ßçP>êP>~2¥>QC>W»ô>L¢f>,G<>&Lç>·±>*8	>'Ã(=Ïo5=ˇ¢>≠	>)&>s0>U>Ÿ†>h>ïv=˘(c=„==Ù¥Æ>“D>  ò>¶„> å
+>?(>	ß=˙’È=˛JR>5L>
+N>
+P„> §…?S∂>√¶˝>]M >
+º>Ú¸>1ô>^2>0=Ïá˜=ÂKµ>)Ω>√±>ÑU>õ∑>∫)>ª¸>	c«>ì>>Ûq>>+>l—=¯=˙*Ä>í->ãÆ>◊È>
+πú>\«>%E>°Û>'◊>DÄì>Xou>Vk">g7C>ÄÏ®>ê?~>¶7œ>ŒQ?áT?.T?WQÉ?ûŸ=?Ùeƒ@3cﬂ@é≠f@Ë`A,ÃWAnõoAúD0A∏RAº˝ìAÆÆAê≈¿AYiA—©@ƒdZ@ÅüE@'èq?ﬁéÜ?ü∆G?is∂?'åL>˝Á«>√õD>û ¿>ÑB´>z‘>Wò6>7¶>1ÆÍ>≈â>¢Ê>
+”>#≥>K“>çY>
+_=>5>®D>ó>ı£>7ç=˜-û>´û>∑D>	ò.>˜><t>=±>mß>‘>|õ>°‹>¥l=Îòt=¯‚>Æ:>æ¸> ¸Ñ?>∑áG>E–È>∞∏=˚¥Ñ>ÿ>Xv=Á‡ø=ˆé0>àC>iÕ=ÎRr=ıÅø=˙ö>¶>wn>ˇù>îÌ>E>kˇ=¸¯>ï_>Åò>íÕ>çƒ>±µ>"ö>
+„n=‹nK># >AC>6F>ß·>9È><7√>Bèp>\ÉM>Ç>¶ÏÒ>¨ „>‰Öó?Ì?Fû|?à#Ê?—-ã@≈Â@[lH@£¢4@Î
+NAﬁ2AGÄAeæAlõnA\P A:/ÉAN@⁄3§@ì;ˆ@FÀ@
+•–?æ5•?Å°Ï?<°ç?>i>‡Ò1>≤Q)>õ ´>ãI>cÇ>m ‘>6€>:Ï>@Zß>1b >,Ô_>!˜>'Ã>&•ü>ö‡=˝y÷>?Z>A—>_|>
+¸'=ﬂó!=Áf:> U\=‰Ÿ=˙˛=Ês	=ı¶r>ÓÄ>ù‡>/‹>	fß>+¢>.Ì>d=˛˘,>\>ªkπ>˙É”>≠{¥>@Á+> °>} >Cø=¯≥á=ÍUá=Õú¸=„GA>)n>
+¨Ø=¯„>Ê>ﬁC=ˆ¥Ñ=·PL=ÚùŒ>=˙Ì> V€=Ï∏=k8=ÛÔ5>π>âå=¸§$>∫ƒ>¶I>%>P>≈>>ﬁ«>2k>:ﬂØ>Kï¿>ríê>{„>Ç	»>≤	>Óa?g?3–é?~¯»?∑9i?Ì«<@%m@kœ≠@ü6@ÕÉ»@˚—AºàA¶ŸA"*@Í=Á@∫ug@éÍﬂ@WìË@B?Œπ«?äì·?YêN?›->Ï¯Ï>©·ô>ñô0>í? >ÅÓG>Yñ@>2I>*Ï¶>*É>]í>·>6à>.√>mj>
+>$>L>Ö∑>≠ù=∆®≈=…ŒÑ>¬Ì>#€P>z=˘%ß=ˆü©=˙≥\>ÛÊ>		;=Ù?=Ó^=ÂUw=Òeœ>"ì›>>v‡>vd>·>ßOz>÷™≥>õ4©>?}?>/¯>U”=Ó€=˘$¶>.>oà>øá=Ûa=Ú'>˛`>≠ı=Œ^w=Õƒr>>¬=>î=ËU@>ùl>ª·>O>Î`>•>úä>
+Œ>©ﬁ>,Hv>#ﬂ>Ug>$$>%)Ë>/IF>+–‰>5≈Ô>MÈ?>q◊J>âPn>ñË–>ΩN”>˚ÎÑ?»i?R‘€?éuŒ?Ω∂´?˛TB@(ZÛ@S•⁄@ÅÅg@ô¬@©_π@≠’@¶+ò@î‘1@vc⁄@AÖN@® ?·t\?¶ë?v⁄v?> r?xü>Ó=5>√Ó>öÎ>Åù”>n{Ω>[õª>4Fm>©l>{>>$=t>cû>+>'>!L·>N„=€≈π=¯>&4>|
+>^„>}|>√K=Ï_/>¯Ú>Ñ[>Ã>ıI>I>’Ú>Wÿ=ÙV√>Ò8=ﬁ¢é=ı(>+ä>r>√|>ß¿Ì>‚¡>ò¢2>ÖF=ˇï‚>Ì˜>`b=˜>˝=Èﬁ<=˙< =Ôéë> E\=˙°J>H•>*õ=Ô-§=Á>D=÷≤¿=¯¢>–^>ö#>lè>P¶>ﬂÍ=˜â!>æŒ>‡3=ı¡-=ÍÁ™>n«>*t◊>ö◊>'ˆ>#V¢>Ÿ©>%PŒ>$pg>E>s”õ>w»d>ê‡v>±ÜP>≈Ç>˚ÿi?-º@?\±K?é3ä?µ 	?ﬁ∆@8È@+ÅÛ@B @Qå@XBô@D—¬@3$@ h§@√≠?⁄i√?™Hâ?tÒ{?;ôª? l*>ˆÄ>Ãî>πlŸ>ñ¶≥>Ç¶d>iîq>KTÍ>6à>,˝6>1ÿ´>E˘ï>,Ø;>OL>Wë>xE>ı!>-ú#>R=ÂS=ﬁ5>=π>!ï3>'™=˙ı(=˜¸>
+0 >	`>
+Â=Ît¥=˙ß[=˜Iî=Úùî=ﬁ£€=Ûëi>ˆπ=Ó=ÔK=ÚK¯>éÛc>Ω°·>ÜN&>Ù◊=˘ê¥>S=ÒPU=ŒÇ5=“¡œ=ÀÎÎ=–∞ú=¯≠>Q◊>Œ	>,>{>	»’>CK>nÔ>
+¯[>	ÁÇ>ó{>…*>A>éÀ>]ì>	˙=˛;ƒ>hL>
+{•>ã/>#Y≤>2ß>;Ú>?∑º>6◊>9ªÛ>I‹G>FHŒ>WM¬>q–_>ìÙ>µäs>Èë?ç◊?%|ô?So˜?Ç5Ø?†Ë›?«vî?‰P—?ı¿z@Ω*@ôà@ ;?ı9n?…K»?Æ∑?í£a?aÒx?DÔÿ?%æV?z6>ﬁÙ>æ°
+>¢Ë}>ê¬>~≥Å>`9R>EÓ¨>>>2o¢>EÛ#>&»~>£¥>µ7>%Ô™>æ⁄>ò«=„í=¸^î>D@>k>·e>	Js=˘∂”=‰=È9x>›>∫=‚`>Ø>ïµ>%é>`>ˆ_>b¢>i∑>ªä> Z=ˇ‹í>∞»>Ë¿%>ù•Ê>%P=“∞≤=ÔÂ∞=Ëv=‰p=„ˇ2>;[>ÿ>±ï>0=Íkö>¶&>;¥>©Ö=˚g‘>ı=ˆ†>Ûf=”ù…=∏Jz=‘Oo=÷∑˛>î∆>!ñR>◊Ÿ=˘Ñ> üå>&rF>
+”∂>™ó>'2I>ÉÂ>#L>E°≈>OjÓ>AËû>@Ï±>q∫L>õw:>∑Ÿ°>‘„¬>„ÿ]?Ç¶?)éÅ?H˘Q?j<”?å¨?óa÷?¢ÆC?Æ¸˙?µ¢?≤ﬁ:?†?ãDl?m∫?RdÚ?.•–?Û“>Ò1>÷5>”…B>¥Î>ñ4>Åù>_iF>QéI>G› >8≤>6¥f>YN⁄>?˙ >≠¡>ã>^>A>Ÿ>>í›>”>÷|>òÎ>Öè>·>ˆ£>(Í>˜>á6>Fz>,ƒ>Æ>M=€à^=ÎK\=ıÉŸ=ˇˆ>G>3¡>$◊>¨ﬁ:>–N>í)ï>(
+.>D=˙öò>∏w=Ôœa=“±=Ëˇ>ôl>Áı>tX>óS=ÚÅ=ËÍQ>Û´>ÿ)>•ô>ôF=˜Ω>!>>JI=ˇˆ0> Û>,ó>+”è>4>>!>‚Ω> |Ÿ>ÜÂ>'‰q>"º>Ë%>Ë	>FÖÂ>Kü>.V#>@ts>j¸>ã‚N>üì>∂Iÿ>’ä->Ûòë?≥3?íÙ?,j=?IıÜ?V9p?h∏Ò?rKü?hò?mP3?j—?Hk?6¬Ω?"ÒŸ?
+NÅ>˙*˚>«˘x>´F1>°÷>åÈê>|Sî>dôs>G£>;
+>F{>O>4>GÅt>;”¯>ŸM>&i>…¥>T>…">´6>ÖK>‚‹>Ù>åR> „æ=Ù?>ÔO=ˇ°ï>¢>)ê(>”Ú=Ú´!=Û¶>|Ô>ä◊>ïŒ>ºó>Ôπ=˜‹S>4t=ÈwÔ>¿]>â{Î>£ío>Å|	>>ÀH>G=“ˇ'=Ê≈o=˝Í=Ëß‹=˙Û⁄>>o>r»=Œ1”=˝s>!¸®>µi>âŸ>©e>A˝=¸@=xC>ƒM>ß>Pˆ>	–>‰u=Òï–>0&>â›> ú>ñı>∑¬>ÕÖ>'\>y>!°Ü>GÅ8><%{>0h>I5c>e2–>u\>Å‹Ò>ùñ0>µ•)>¬mõ>€§ò>˝Ãd?•M?Õ|?$Á2?*]?-Èé?.3§?,.Ö?$S?	°?ÂC?WF>Ï´>«÷˝>™ÅZ>åπ{>pâ>Öä¬>c˝ˇ>TÄR>^c>>J*>,£>,8Õ>4ü[>@¡ß>)ƒJ=ˇÑá>”ë>Ò¿>›3>Z¢=‹Õ=Ù%>√ﬂ>≠C>	(>	&>‰>Y‘=˝r¿>≥˜>d⁄>¯∫>¿∫>qÆ>	˜¥>4…=©)>°¯>5>Øu>	å=˚Öµ>ãÇ>±,>Äë	> 9 =”7 >.√>Ô>øv>P7>¥‚>pÜ>	iJ>∆Ω=”·1=‡π±> 
+=‘…ê=˜ÊZ>Öã>6_>ƒ¢>&°> l>L>@ú=Í≠‹>
+ß>.>sì>»˝=Î°>
+U≤>q>@„>+Ã>*·>'p.>H	‹>NqÉ>D—+>^Ü6>Ä?>à+á>àœæ>ëŸé>£ê>¡D∞>√rÍ>…ï>Ï4">˜?ˇì?tß?.û?	d?«>ËÌê>÷ÎÏ>ÃÇ>ºı#>± >±–C>§©>Üg?>sÏ¨>^[•>H∏è>?5è>G«
+>@~£>*X'>âu>3£>Õ3>%√Î>-ó>êç>W >’ú=˝/«=Ã∂›=Ï¿=>¶¥>”>œ(>∞«=¸≥(=v‚>∆>@ >°1>
+ú=˘+T>!w>¬/=‡|6> ïå>	Æ=Ìm>	8>	>^‹˝>é.†>a˜©>'í=Ú…=—®Û=”»2=ˆ*>Õ—=Ò)ú> ∫>(˚=˚"/>$§>bä>a„>
+RP>¸P=˘Ä&=¯º>;º>`ç=s >>†>CÛ>ê=¯é•>u◊>ÂΩ>VY>Í«>Á!>+–>S^>Mv>!|>>+(^>5Ó">)Ú`>.]¥>HY">G›>Gï0>|õ>ìº>á[Z>ä_{>ùû´>≤t>≈Jh>ª¸d>∑€Z>ŒÃp>Õ€>«ü>∆dÓ>Ωµ∏>≠î>ûo$>ô ≈>ô>o´≤>Éí©>eôÏ>Bóà>B{>.†L>9>=≤L>+ÛÉ>*vÆ>ÎP>˘	>8>+Ç∫>u>(
+g>*©v>ÏÄ>q£>÷Å>2>Ä˚>oá=¸“Ø>ü>Eã> 4>ñ>2E>Ä©>⁄´=ˆÉ>J_>∆Ω=Áü‚=‰PÖ=ˆ>–¸>G>!r>fÃô>è,x>bà®>&∏_=ÛEÃ=ÚX°>
+d>6ª>0F>‰ﬂ>7=Ì®T=¸xÅ>Ên>;®=ˆÜu=ÒR>éŸ>s>ì>;à>î>™I=ƒ“-=·ä	>
+Ù¬> áJ>\F> ˝ﬁ>\V>¸∂>&ê›>≥ã>äÅ>!≠´>R>"?c>.E>3ì>0(>F ì>QΩ>Lä >c
+>oç†>w∞î>ÇÈ|>É~O>ótk>¢¯Á>§‹◊>Æy#>•ç~>¨¯∫>™Úõ>°Bö>õo–>ë⁄>éHE>q–>p)l>Ö(ù>wÛ≠>o¡>ny>_S£>8Îm>*ât>.⁄:>9˘p>2®3>∑>>(õô>%Ü>˚C>˙≠>!Ÿ˘>bt=˛
+ >∏	>'∆>	£=˘±ë=ﬁ5Ä="d=◊k§=›å>
+èç>uI>sU> &Ö=ﬂ»Ø>5s>h≥=˙ñ˘=ˆ%>/_>Zj>⁄Ω>s´> a‰>R[ø>Ñj >V.O>#à_>
++‘=Ì˙’=¸≤$>
+©Õ=ÙÎ=ﬁ£l=Û°•=ˇç¯>≠>Y>
+‡=Îﬂ¥=¯ì6>=€¯&=‹.í>¨'> a> (Â>Ló>Íí=Új¿> ±{=¯{˘=ÛH¸>†>œE>
+Ù>ÇÕ>/å>U÷>§=>0eR>E3y>3uµ>4>#6ı>:3∏>>òÕ>1⁄>Gˆ‚>_»ö>{¸C>sV>o•˚>uó§>ÑÇy>ìô6>Üî>á˜i>ì∫Ω>óí˜>ç∫T>Éhâ>HG8>A∂ß>YyV>Op>[•>Yƒu>3Çß>7ù>B≤^>	ú> ‹à>;=ƒ>CÅ∫>IÎ>9ò>õ˚=ø¨©>„>s˝>Ôó>y¸>JF>"¸Á>>(Í>&û‰>$Ù¸>◊˝>	j[>Õ=–¨=÷H⁄=˝8>Ü> p=Êñ0>&Ÿ>Ü;>5Ë>*Æ>'Y>ª=˙Ü*>ÖRù>≠á>Ör>9_ü>¨>¢Ã>ñ>v(>œ>Ÿâ>3Q>!$>	ó–=ˆî>3Q>’ >	}>√>ÅM>Hµ>à*=¸l:>Uy>Ø>6•>¯Í=˙Ö=˜•0>€ö>Pú>$3>7Õ>+ Á>"ÿ3>Ì> ˘•>Z=>k1>#OW>H>˚>!Ë)>?åπ>[ª'>MÂÇ>DÁá>bó>`Ü2>pÈÓ>r[Q>S†ˇ>UÁO>YúP>Z;Y>g∑õ>\nQ>U*b>a¬>X∆O>h∞)>e≥∑>C<‡>-≈Î>/Ê
+>;Ú›>A≥O>AõO>+ö>#N`>5Ì>>•Ñ>!>*~
+>€â>–«>Ù=>3∏>#qÅ>’>Z>	_l>d°>Ã >≤!>¬J>f;>	º®=Á{!=‹Ïä=ÚmÃ=Èüß=◊˙©=˙‰> b>sQ>4~>5,>	b?=√ç±=Úo6>Ì{>m
+>ú®>r¿.>-S>Ÿf=ˆ‚Ö>’Æ>≠Â=˜˚K>
+â`>µı>sz>£Ö=ˇôO=˛Œ&>8w>QÎ>	Í>ä>e÷>VJ>3º=˝Ùé=ıÙ0>	ﬂ>P >Æ>
+Zà>à>∑	>‡>#˛M>c >Ö>U>O>\†>3$ >$\›>É°>1√ﬁ>4à>-,>( Ö>A<i>AÂ%>?#¬>:?~>KÉÿ>gÕ>Eó>SNL>e¥≠>]íû>KnI>D–N>\ÙΩ>Fj¨>´◊>{Í>/\¯>F›≠>'Â”>!á>9^ƒ>3mô>#iˇ>∏D>Å›>ïN>*·>'Æä>T>!	>|>ÙÀ>¨A>#mN>%/◊>UÏ>qA=˝å=Ô,@>
+Ã>•>¡À>we=ˇçc> qÊ=ÒúÍ=Ó7˛=Í» =‚G>
+iF>©©=„G±>Ä∂>Ä=˘«≥=ÕÛƒ=ÃÔŒ>PGÉ>ÖJò>QW–>s>
+ZË>EF=˝w>3M>aú>*j=˘ïç> ¬>é>"Ö>µ|=⁄|0>( >x˛>≠	>$M>
+ﬁ∫>ﬂ7>Gù>	Uc>b}>6Ó>?ˇ>T¡>LS>*Z>;Ù>Öd> ◊>: >x¯>°>∫˚>Î>,e>µ >,3> œÔ>#ÖC>,ñ >(¯Ò>,‹É>$÷>/éu>AV˙>:ìp>F}@>Aâ>-÷Ú>CJ‰>/»>≤Î>:I&>;æﬂ>?RL>Oú	>Dé∞>)‰˚>$*≠>,*Æ>û“>yx>1n∫>)¨±>5>5„ˆ>jø>˘!>Fã>V/>A˙>?˜>#	¶>Ñ∞>	ŒC>≤>&N=—⁄‚=ÚRÅ>•0=ˇî> :à>àä>§È>mB>}>v>Ë_>|l>›Ï>∑‘>
+›{=¸©T=ˇç∏>
+⁄S=¯âR=Î)>Q£H>Ñ‹?>^0>2}‚>
+l˚>
+Ûj>EŒ>`_>ä>ÖÌ>»{>>FC>?ë> 3à>ö9>⁄ı=Ô©÷=Î0?>Ú¡>nw=ËÖπ=Ù.˝>≤Ø>|Œ>d>*∫>ƒ>»§>Ø∆>Zh>òH>à5>!°Ë>&ûÓ>ñ>
+k>*&>ÑÒ>’~>'k#>!B,>,Ó>-≤Ò>ß&>⁄e>.>@j=>-
+(>=˙Ë>Kùó>7á>Aó⁄>:Y>,ã3>-˝>5”h>0ân>5Åò>U´Ò>Jpá>8l@>+º®>-Ùß>N82>:‡¯>‰§>>ù>#s<>-ÿR>ö∂> •L>%=˚I!=·=s=˙á>eá=–=’pâ>/]=Ô/§=˛™>Ô€=˝û˚>˛∫>$07>Èà> «∆=˛ıø=›π¸=Ô7æ> ˙Á>ΩV>ˆ»>
+At> >ÖÄ>˜’=·–Ω=¯9>\">xÏò>>>ˆ>ëU=Úè
+= zç=ﬁk=˝®C=˝/b>Dq>ñN>¢E=Ÿ$=≠•=‚|>lŒ>
+Ûù=˛u=ÚUr=˛¥>KT>	˜r>Op=ˇ<ô=ˇ)Ì>	Ã >ôﬂ>=Ù©¿>\ä> ˘È>
+∑>ÖK>øt>
+—d>G‚>Â>4¡>)y>"å>‚J>˘»>)rÆ>e>ÉÃ> ßU>˜3>#‚å>*<¨>9.P>uê>Æj>%ƒa>+¨˜>.>1u>$n‘>%üú>‹%>#ì>)·> @>Ú?>∫>yÃ>@⁄>LÁ>„0>ˇ5>#d>!¯ñ>4ø>SÈ>
+üO>ﬁ!=˛ß5>BF=˙w€> R,>Ω>	$·>CO>Iz>^Ò>áÿ=˛–¨=¸<>rï>"∞·> ”Ü=˝V±>/>_;=ÛÁπ>®Õ> DØ>&Âi>¬>	h˜=¸≤=Ùï>WËm>àÏÃ>jÖY>C1>∫∑=ˇ]¸>Çö=ÙMÜ=„`“=Ê˛`>4∑>~ˆ>Z¡=˛Ù>©p>§b>ôu=ÎÙ‹=ˆ˙>™|>·1>k>Bü>“k>b:>gÂ>#Ûˆ>''ª>≤H>#>!Bz>¿æ=Í⁄y> Íh>0§>¡z>ª>0=‚ÕÅ=ÛÙ>?M>w«>#·¸>5ˇ˙> Åf>j≤>u‘>"∫ı>%˝˚>YÀ>»§>≥> PØ>15>2∂">ª>#v>)∞>’p>à5>+Ûm>-ï>¥–>_>yO>'x+>,‚=ÙÊ˝>/>x∫>
+ˇ~>’ü>¥«>?>-Ú>N=Èë	> ∏4>óO>
+08>«>ñ>	^Ö>]p> „>I>	¡o=˝9˛>–>$T><†>?=⁄ëq=Ê%‰>∑>˛>Ä¨>	“	> ¿>Ñ4=Óªù>5>>eá|>Cäò>!ç∂=Ôlr=Ï2J=„µ÷>√>¨Á=˙-=¸ƒ1>S§>ﬁ >àc>ëÁ=¯x]= ‹=›FŒ=ÛÖ°> @=€Áà=Ôˇ=Ë Ÿ=Ú¿ñ>™
+=Û—ı><>	“>é¿>%≥r>(√>N=Ù…>
+õ•>∑π>}>´>≈>ÉÒ> |◊>0…Ï>2á)>Sw>nÊ>√>ÆÙ>∂	>Vc>*õˆ>!Ì>k≈>~é>/Á>'ˆ>6>¶`>&«À>/õù> Y>!yq>è8>[X>Bq>
+”>Ω>%9∑>⁄è>À>Ÿ>œÕ>g>‡ô>À±>®∞>eP=˙7»=ˇz}=Èy'>}>	áâ>›>Å˜>Õ>÷◊>£>£•>4m>	∂)>"â]>i=ı»=˚>3=Á=W> ÿÅ>∏Z>PW=Â|~=ıti>ßd>“!=˘>Hâ∫>e≠ú>1ù9=˚™=Ïó@> ·˛=ﬂ$$=˚Q>—ì>ù,=˚ZÇ=ÙWE=‚rØ=ÈŒ‡>u’>Ç.><»>	o>≤÷=ÁÌ>æ˘>T>ë0>KM>Â—>§ˇ=˙÷ı>ñv>‚>Ê&> È+=⁄?)=Â€">í>l◊>$ü´>ê“>Ÿ>ﬂ}@ìÉN@âOV>ZÑ>RÛ=˝Â±>¿q>	>TÛ>"Ó> j>
+ï
+>≤•>(Ö>1J.>'æ>Ó>)Q>)Î]>˝)>'Rõ>:LF>3√T>Œl>Ñ>ΩÅ>hC>-Ä>Å‘>µ>Oë>Ö‚>™E>">hù>'>æ‰>	=ã>√'=Ôé>BÇ>%µÕ> •>Â{>Xj>*=˚¢Ë=ÔK∆=ÓŸΩ=Ê#=ÎØe>	Ì{>_>T∞=Á„=˚È>W≥>n>
+Qd>ÿO=Ì¶ö=Ò‡È>Ku>F	}>i≤É>H8√>&ø>#l∆>ˆÕ>yv=ÚãÍ=‡i`>7◊>∞{>¢B> .=Í÷=‰)◊>¸◊>_‰>*=Ó‰}=›©$=‡m=⁄~>ﬁ⁄>2Z>R¿>)>‡í>µ=Ë+*>¿r>ZØ>ÑP> ∆¶>2[>$,=ı!=ÌN‚>¬Ê>Ωø?Ω ?X“>!õ›>«q>Q>#—°>=†>®3>6®d>=>·g>ÉŒ>‚˙>†˜>!èM>œ>"aÊ>"ì†>!h%>$é>hô>
+˜û>¬>_>e>'®û> mü>0â>®P>Á >S°>%e->`Ã=‡ÎY> ≤È>%"2>L">Äj>‚>§H>&¶=Ô˚{=˛ÔÈ>eÍ>0>b\>Õí>∑'>Ô>=˘î~>C`>∫Ë>êˆ>Là>òZ=˚¯Ï>2†=‚‚”>AN>àË> {>=>>„>\ÙU>0$x>Tõ=Î≈7=ÀT◊>»A>Cå>	n>>Nπ=‚Ù=Ô >˛>≤¿>XÖ>s->çP>[–>Ë¡>¸∑>˛˙>ÕÂ>_=˙º∆=˘Â”> ˙ô>€è>•R=˝T>≈¨>[.=¯w†=Û¸>ôŒ>é>
+”û>	#¥>IY>sµ>“
+Ô>Ã)5>ì=Ò=¸‰>	>w>#Pµ>1@>Ï;>D>ÒΩ>|>:Æ>R>Ã!>Zõ>O‹>`>Q‹>Ìj>w—>év>ª…>>K}>)/>(
+=’ä?>ië>h?>@ö>5[>ô≠>	ôÎ>ã>ó>x˝>&åÖ>õô>ùc=˘Ã.=ıﬁ>¨X>í>µB>L¶>,=¸ht>	>«Ú>—=ÏÅ=€I@=ÊÂ·=˚I…>§Ó>‡H>«í>
+”>ø`=ˇ·_>@gÊ>{O`>M\ó>i–=‚ÈT>
+Ì˘=Û‡Õ=Ôa>>Ê~=Î‹-=–Ã=ﬁC>	=Á,=„w>	Çu>ﬂ=Ê—O>Vi>R> ì∏=Â+=‚√=¯ÀE>\≈>
+[=ÓL=Í˜Ñ>,ñ>@g>
+F⁄>ï∞>'sN>+∂Ä>⁄Õ>Ëá>íz>@>¢Úó>†#È>5B>Ô‘>#->äb>!í>$¡>
+M=ÍD>òq>fk=‘8V=ﬁå≥=ÒËí=˝Ÿ?>
+ß>§∂>b¯>Ïu> Ÿ>6…>ñ>ËÉ>oE>3·> 'å=Ù8F>√k>—}=Ò–E>ü∏>Ü >\î>∑”=ˇõ!=˜¿∂>\{>£€=Ù7>ƒ—>∂å=ÔT¯=Úøs=˛,=˜^>	˛ç>±>Ûa>¡“>Y©>b!>ï’>Õ≤>%6≠>/8>5+>√ú>‚Ü>	„>K“>òn>JÎE>b[À>9N>@[=˘4>=Í7{=Ï^h>36>u-=‹3h=ÙD	=Ù˚`=Œnﬂ>æ6>HÄ> ^Ö>ïl=˙@¬=Ÿ›ﬁ=€*“=Í–=Ò =Áéı=Ú¿¨=ﬁ©D=ŸG>’Ã>"^>ñÔ=˘*z=„gâ=˜À;>‡>$∂>>∂u=ÙâC>0ƒ>î∑>óQ(>ê]>§√>{>3>!Z*>&-A>si>Â>"cÄ>%>¡>KÇ>aı> 2>oì>t>5>%>j|>‹ >N¬>¿>„¡>Eœ>
+[Ñ>‚T>Kî>È=Ó =ˇì¯>=˛:(>œ!>y&=˛£>VÇ=»±∞=‡˛z>G=ˇ3=Ê1=›>®^>≠
+>◊C>ˇ#>a±>§Ô> >e›>Òß>[>_ª=Û⁄\>ßc>à#>qq=Û >Ï=Òça=‹(û>?ô>lÈ}>A¥ﬂ>ÄC>;q>
+>Í>>∆=¬ó≈>‰_>0x> Ÿ=Û46=‰Ó˜=‰—ó=ÌŸ~>
+è>'ˇ>	óÀ>ñ‰>.Ë>∏û=˛ùä=‰{ =Ò∏∆=ÔÀw> à>&ñk>H]>q3=ˆ•˜>ﬁ0>S±>Íe>c>¿À>$g>´>∂À>ê˜T>óê>-6ó>M·>Ãm>bö>z>
+,^>(=>®>f´>ªé>äò>q>J›>
+qD>!>=˝≈Ü=˜ﬁÃ=˚§=˜√=Ëôv=Îÿ¯>	Ω~>˙«=Ê±Ú>9“>"âS>w6>†‚>Í,>ˆç>òë> ô>æ=˚sÃ>˙>êæ>ñ˝>Hx>˚´>¶´=ˇû›>n(=˚Ó…=ÙH0>z>Ë—=˘±*>(‡>
+Z∫=Úµ=Á«ì=˛“O>äÌ>	+◊=‰’p>%Ë>.à=ıœÂ>v´>g><L>V\˘>99”>≠=˘Ë®=Òu=ÒÙ>O"=ˆE˚=ˇ}>åO>°Ä>óD=‡A¬=ﬂB€>	ój=˚´=ÿ^”>◊3>õ>ùl>≠Û=˝êD>¡=ŸåX=„5Ô>úπ>≤R=‰Ã=ﬁ6^=È[£> ∏˝=Áî=˜#ù=é˛>tÓ>%7ª>>~>xo≈>mπ»>é≈>ás> 6‘=Èï”>
+DÈ>ŸÚ>	]ì>^`> V> Z[=ˆà¢=˙k=¯µq> Œ>èw=Ó“=⁄∏·>	à’>#{l>>>Ät>	ù´>ä÷=Ì‡›=Ùå|>Üô>l√>9ˇ>Z»>î>Î/>	·û> 2>~T=Ê]T>◊>z◊>È>tS>	0N>ªú=Ó.c=Í£Ñ=‹D=’V5>TÜ> %p>jÇ> W»>	Ÿ~>ÃO=ÁﬁÁ=Íﬂ]=Ÿj=√-+=¯˛>‡~=˙Óf=·fÊ=Û°Ï><ì>Zo5>Aj>'œ†>]7=œK=>≠ï=˚=ˇπ>OÍ>d£=¯`j=ÈSC=ÏÂ<=Î≠=˘4À=ˆœó=Óªí=‡ß=ÍÜõ>~>jè>QÁ>“Â>v`>9>ﬂç>£m>Ë¥>Òk>z˝>	y>ò#>ìd=˘6ô>|@>1>Õ>Û]>x7†>z,›>$Aí>™”=„ÿå>”W>µX> ‹>8=Õèq>2>>T>?f>%/p>ºÒ> ë*>œﬁ>q≤>≠>.∞•>k4=Ôı>∂>#‘¢>=ÓTƒ>L»>&c¡>;> Ì€>nö>m>+E=˝'=ÚÈ*>0c>$q>…•>&$=ÔbØ=ÛE+>
+Lm>∫>U≈=‹lz=–¨à=ÎE=ﬂA»>î">„û=˛©”>Ω>#¸>æï=ÿWŸ=ÃŒ]=˘€Ü=˝,=’õ·=˙ƒo>{=˝Ω¸>;1>M€>$SÅ=˜2M=Ï?=Û8∂=˛¶˛>93>˙≥>'_>˙µ>"q>É¶=ﬂ´;=‡ı5>§Ï>°°>˚>e_=π_=‚Ü=˛ë¨>Ò>h>U3>πÁ>Òq>Ö-=Ûl·> d>%>
+‘‚> ∫¥=Ôw>y©>JÕ>¿…>«z>Ó2>g]f>bëó>˚\>Ai>>Òr>≠ﬁ>√¥>#∏>•9>ﬂ˛> 4>ã¯>e3>h5=˛Ãá>5A>X=¸˚%=¯jØ>‹>%gû>æ€=— [=ø=v=Òg:>0>¨µ>’‰> m€=Ïe=˙:M>á>Úé> LB>=ﬂ>	nÕ>w>}%>ö>…›=˛∑ü=Á∏_>∂‹>]¯>kÃ=⁄Ë=»™Ú=˝æ>`> Gƒ> Cß=„¯=Í¶ä>xv>¢Â>Ks>îY>ò>ÈY=¸è=¬¿>H∞“>Çd>FZÑ>ûA=ÎCÓ>”ì>Vƒ=ﬂÁÎ=„˝p=¸ö#>	;> =Í◊A=Òª≥>?ñ>S=Œàn=Ò¥3>ƒ®>Ã¿>ﬂΩ=˝”>ÂÛ>Ωl>çO>™Ô=Ù‡=˚Ô„>&A>	j+>	 \>
+≥ÿ>ç>oû> π√>…>Î!>1Ä>;‹>TEü>N‰>ù…=Ú€=‡ˇÆ> Hm>kÈ>QE>x∞>rZ=Î˛.=Ï#I>#>	!c=¸Áj>x2>pÏ=¸
+>Ri>ì=Ïï=Á^ú=‹Ü°>7>&Œ˝>>Ø=˚0>÷¥>]˘>≤>™©>V">≈Z=˛¯!=„≠Ê=¸;˜=ˆ>∂Ä>";>	C>i]> =¸£>Áœ=˝÷=ÛªH=ı>+>RE>ÈÍ>•◊>m=˝ó‰=Æ≤Ì=¡"û>]ö=¯=ÏŸ0>È>a\>—_=È¸!=‘Õ>PßÜ>Ö)Ù>ZõŸ>*„Ã>≤>¡í>Ñ>$Œ> J¯>«˛> $=ˆCõ>s1=˝◊Œ=ﬁËÌ=Ò˛>%=¯‘È=ÎF>∑>ßS=¯bµ=‚Õi>áÊ>÷O=ÎDp=ıÏT>JÒ=¸î> å`=Òå≥=Ùl≈>
+ë>ri>-ƒ>2«>¸»>Ωﬂ=˘Rû>6e>O<c>!$´>l>¯)>
+=˝=—2π> gj=˘’=Ÿë=Ó‹Â=¯À/=ÙB(=˝◊#>Û=Í> 4í>”@>@ù>5Ô>1H!>œ≠=Á=·9h>ù£>¥>Ow>±>Qﬁ>¢=≈Ê‹=˚≠ì>)Ò=ız> ﬁÖ>6D>w>>[>>i1=˚1=ÓAä>
+Ù>≠>4>c>iˆ=∆¶=∆7p=÷!=ˆã<>à[>ÿÆ>y÷>~'>.”=Á=≈˜ä=`ñ>*b>“ç>CÃ∆>Y:c>-Ja>Z`=ÛÄÀ>	Ò◊=‚í	=Úä>≥E>
+å@=¸ø˜=÷'J=È±Ô=u>G/>'{>|Œ>_>	K>R·=ÁJ¥>ΩØ>+>m,>NÛ>Öù=¸ä9>
+ù]>;>]e> >=a>‰Ô>Ø=ÊM*>
+≈«>1‡>3S>bπ>Nº˝>MYP>"å>	ôh>	7Ÿ>ºË>7>ß¢>•s>há>ﬁ>Dì> >Ã>÷I>
+Nè>GÒ>qH>è=Êà =Ãë=Ÿc¸=Î⁄ç>æ√>{`>! >è◊>Ûı=˛=»w≤=ˆŸ„>i>¸Í=˚`6=Ááz=‡Y0=¡˚ı=Óâ‘>pe>µ>ˆÃ>\%>˝m=ÛÕ>=>ãR>˙ÿ>M…>õ>Í⁄>ëª>>>ÿ”>	[©=‰‚=˝îô>Hß=›£=Ë——=˛—¡>ï>u>)Îà>AûQ>/C¨>È>ûH>=ˆ›1>øÆ=¸
+,=ÿ”:=Ô20>Ór>ü=ÍíÈ=˝!å=Ï =Ë°ﬂ=ı\Â=˘ß≤>3t>ﬁ=‹:Ò=‡UO=ˆy=ıN4=ÏG˘=Æ“}=—){>'>‘=> :=˜(ˇ> “4>
+G> E$=›ıŒ=‡û•=ˆíÚ>ÿK>R¢>E•>≈@>^g>
+ÂÕ>^=¯˘ç=Û?•>∑†>≈–=˛ˇ¡>@É>^¢=Î!q>¿}>)t >ŒY>7∆>H=ˆ¥r=ˇ–E>ñª=˜ŒG>Ø>–å>5K>¡ù>¯œ=‚ˆƒ>
+…√> Ì“=˝”>
+ºo>
+‹ë> Y”>∫á>•°>≤>Q¡>ÍÕ> 4>˛÷>ï6>≈˝>˚+>—˘> áë=Ë‰≥>	=∏=¸…=>ö™=ÿ	A-ÕßA#¡>Ï§º>)$Ω>'π>¿R>:%=˛”{=˙>@©>^ﬂÑ>;N»>æ=‡:Ñ>…=“F,=‡©a>>>Gë>êó=˛¢>S>Ú>Q>D˚>‡Ö>ª‰>ÌÊ>I/>¿>	⁄@>Yπ=ˇÑº>‘„> $ö> x >˙÷>0»>jΩ>M=˝.£>oØ>	`:>Zˆ>´$>≈â>  Ó>ê0>a¨>[i> ê>üc> á?>l=˝
+—> é=‚±>€P>—r>
+" >˝>{->^ =ıØ5>ú3>	æÎ>ü˝>å∆>˚Ì>@>6=˘é>†>≥–>>Í>˝>É)>%u◊>ƒ=˜s·>ûÁ>£«>¿s=˙x˝=Ó8ñ>J>∆>
+0ë>∂%>∞k>9ñ>÷@>⁄†>û’>*\=∆øn=∆"}><q=ÒòÈ=–◊.>◊‹a>Ù¢g>BÖ>ªv>`@>©x>\Ö>m>çk>#@†>.ƒÙ>º>ZÑ>\®=¸zÅ>HÏ>MT=◊˘ï>m>µ’>xì>0=˚Ni=øní=“2`>!H>ÛÍ>4=ˇJh=ˇqï>ù>„˚>
+õ=˜¨°=Êc!>L’>ˇ>pÎ>>ü/>[~=Ób0>èP>I=¯Ê≠>	P(>ë7>	¡W>N≤>Db>œo>Ì>(Ç>óŒ>·">è>G©=Ò-*=ﬂáÕ=Û˙q>%[–>0ø>jI>k>3≠>i≈>·D>˘Ø>~ì>±ó>çí>2ã>√C>òù>÷u>å6=›mè=ﬁBQ>ı¶>Ÿ >HQ>’©>>ú¢=Â*ã=Ÿïˆ>m…>Ë˚>
+{ë>=ı‘==˚πS>3>]4>Ä=ıÓ=¸|∫> 1›=ﬂ†ı=˛,—=˙>ùGÜ>πØ>LVì>.=
+> —ˆ>ñ)>2>—£>5ó>VVø>0 á>>N=‰L> Ç=ºú†=ıLú>
+è>ßE>?±=¯X3>å>¥Ñ>!¨=¯Lˇ=›lN>.$>è˚> !â=¿ï0>9ÿ>?â>ÕÊ>oå>ﬁ√>a=ˆi=◊\ı=◊B>p>Ñ>o¨>6x>[‹>"+Ñ>é»>nc>ﬂê>Kƒm>ED•>¨‘=¯r|=Ïe(>O›>
+≈>	Æ·>'=ı5‚>
+üì>g√>%)>Ê>H€>'w>1≈=ÚÑ¸=ıãU=˚:K>4>0>lq>Y>	?Ω>]=˛>=˙-‰=Ó:í=„%•=Ò¯>`ê>Gå=Â˘=Ô¶ı=ˆì>Áô>–ÿ>v¯=Ó·=¸ÏØ>»„=ãm=‡Cæ= }=˚∂ü>:y=˛&í>oA>/,>wÏ>€\>Ú—>á8x>î?>=ﬂ¨>%íÌ>UT>iƒ=˙7ã=Ùﬂ@=ﬁ∞ >6>3>L$>Ç7=Ÿ)>ﬂª>í±>	ï˙>≤ﬂ>˜∫>Ík>D>óõ=Î<=¯}Í=˝Ï1=˝%m>!ØÚ> >ƒÙ>Œ˛>l6>‡>àÔ>Ω˝>	›U>«“>B÷>¢˜>ö(>ó˙=¸F>óè>ün=ˇ}S=¯ö>çn>=˙q>%˚Ü>(4G>Qˆ>Ï7>ø”=Ë˚O>> >	NÔ>”ﬂ>o¿=˙S=¯nF=Û’æ>)>	5œ=‰ß›=·@≥>G7>ÿÁ>bˆ>aè=ÙœG=‡∞=Â2É=÷S¯=ıˆã>]M=∂≠=±˝*>Å‰>#J>©=˝≠î>Í=>
+Àz>
+¸> >ƒ>È>∞c>l˜>;µ=‚/ˆ=◊{*>ºW=ˇt>6<>D>-\>ûÙ>P	>=œ>>]îZ>n‘l>3Ä>	ò>Á™> ÊV=◊º“=…˝ø>∆ƒ>FF›>F’:>*Y>Iw>*>_B> ûÙ=¸„ﬁ=ˇª>ÌË>‘¬>	ä=˛]x>˙Ñ>¯›>•®=ıaÉ=ÏÂ=ˆâ=›:>^Ø>⁄e=ˇö?>µ>yÄ>¿I>Êƒ>^±>–Ã>  =Ùò—>H∫>]>¯∑>lï=¸¡=∆∆$=˙Wô>j¶>Q–‹>D—>5=˘’H>ÿ>Ñ›>b›=Û!{>Dò>	‚+=˚Té>Pp>ì◊=Ár‘>ê˛>R‰>#T>«>ˇÔ>ar>‘>&>—F>C=˘€=˚Ÿ>ß™>	Fh=Â‚>3_>&E >Ô∂=ÏL¡>ÊB>G=˘˚‰=ı¯Ö>
+R&>¸Ç>Lï>%}F>&Êy>˘q> ∑>·f=Úe◊=ˆ¥q=‘Êc=ËÜ»>ms=Ùñ¯=˘â6>t>W˙ô>Üxä>'Ã=›’=˝QÉ>z>a¬=˚KÛ=Ú¢>*8 >B¬ƒ>)ôœ>p€=Ú“>>u2>P¥=¸ªg=Òò¯>∏=ˇòÏ>«Æ>€Æ=≤Ö=¸$>–
+>eú>	'u=Î&^>≥‚>F'=ˇŸ∑>_ï>6T>	˘—>œú> sù>'ú=ÒÏ?=ÂUÊ=ÙQ=Ú:=ˇ∂¿=˚´>u≈>⁄!=ÙE£=˝è >EÔ>M‰N>
+Fç>ÃÉ>V>†ﬁ>≈>2â>rÌ>*Î=ˇUÁ=ÚqÏ=Ùnò=ˇ[->˝Ë>
+õ)>9^>Â > B(=˙»É=ÏEÙ=¯Z˜>*|>¨Û>ë¥>ºx>Ë˙>->‘‘>x’>∂>*>
+Cû>∂>îx=ˇGC=ÁYâ=˚ì5>t>{^=˝Ï¨=˛Câ=Û¸>‡◊>g#=‡y=Ÿv»=ÌÿÆ=ˇÿÿ=Ó∞i=⁄Û7>U>,`>JL'>ld&> =È¶ô>ÿ>5==ˇYÆ>s5> Ã>=>?Ø>&^·>≤=Êgø=Âƒ=ä•>*b>î§>ÛF=„=Ï‘R=˘ª>ªΩ>Aá=ﬂıC=“~Ü> ÜH>áw>$Ô˙>ÖL> Ag=Ë&å=‰p+>Î¶=ˇƒ=Ù•\>u’>∫ÿ>æS>Ë==›¶™=µ‡o=‡ˆo>õ6>ob>≥;>Vë>y‹>7ø
+>4N+>#Y∑>=Ëb_=‹s=ﬂ«/> út><ﬂ>î>Êˇ>"éÂ>ûÑ>” >W9>è¬>»[>â¡>‹Ô=‡x¥=¯¥>ÕC=ˆ_b>	ìÇ>}·>sŒ>÷>	€˛>∏;>Å'=Î÷÷=¯@>ª∞>
+°d>9<>øﬁ>™>õÇ=˛≥C=ÍoÎ=ÚAH>	Q´>>6ì=ıøE=˝jì> œ⁄=·˘">„€>e=Èë=ˆâ> ˘ì>Mé’>ZØ˝>aÚ>:À=”,∞=‡3
+=ˇ»ç>ÛR>wu>"˛˘>+ÿ>>Á√>˜J>€˘>	÷Á>>»Ä>	=˛R=Í ©>
+˙>ñ=ü=Ô—ë>∫$>&(¶>&3> ©˜=«´0=Û^9=ˇ˘ =Í∑=ıt	>çj>_>©Í>"øR>‚r> '=Á÷=Ï‘¯>Ã>Oﬂ>i>Ë>=¯+‹>@>ôÆ><c‹>7U¥>	oI=ˆE=˙1>R:>‘ =ÚWu=Í“í=Íl=›—˜=·£=Ã!—=‰ï>ç=˛!ˇ=ÌD>˘‚>	∫p=„Œ>ÜA>‡}=˛z¡=˙jR>”Á>g>“¿>ö4>Õg>≠> I>Ã…=ı2É=ˇ
+˘>˛N>∑i>∞>ºØ=È“ú=“l¨=Ì<F>É>	ƒπ>l>{>óA>+=˝'„>aM>Bœ>	dá>`R>Ñ|>Nﬁñ>_G9>›ò>Æ∂>cï>E>f>.>Gl>-#>G£k>3al>l>√⁄=È&Î>ãc=ÚbL=‹"ï=Í; =È‚‡=˝7‘>`È>⁄‘>÷ı> ëu=Õ ˘=‡/w> °Ä=ÍÙû>	ó¥>,>	^∂>Pî>4=ˆp:=€ßh=Ω#=≈Åc> †3> „.>Ωh>ˇ>=ˆ∫)=«%=›v>F>ô¸=˝Ã£>Ñ>V}> KÏ=Ÿ…c>¡(>R˜=¯JX=ˆå>
+õÇ>¯‡>3><=˜õù=Ó.Z>hù=Á"ä=‰Ï>∞Õ>)ﬂ>	≤∑>YÕ>°¨=ıo◊>ßX=˙]œ=Î
+h> 3Ç>f¡=ˆUé>èL>∏˛>x+>â¢=ËÑ⁄=ˆ¸ˆ=˛eR>">yÒ>¥=˝Ùz>À∫>.f=˛U”> o=˚¡=ı¸<> È=ıèj>Zy>ú?>ØE>®><»>8%>-Td>"¥>ÊÇ>`=˚Á=Ó˝ò>
+òˇ>ª>MÍ‹>iîº>8v	>WS=—Ωt>[o>Pi=ˇ∫∆>“t>∆p=ÚÖT=‚—Ä>XÚ>Ìú>W>«ª=˝“ó>œ∫>0p=˚˝o=oΩ>	Q=Ù¯=öx\=Õ‘y>G‚=ªPo=€⁄>0y>5}>g{>W5=ÔÆ>3=ˇÍ$=Òˇ
+=˘÷í>&	¥>ÿª>6[#>?Q=ˇÈ=ˆØ>=˜bÙ>˘>g<>
+•>¯Á>(ª=˜+>\´>%I> G˝>c>·~>∞Ñ=‰<æ=˜>$◊ù>,>7æ>¯F=ËYN>·¿>)>1 >.T>	¶>≤a>
+ùÂ>í>$æ«>%Æ*> æ¯>	É=>„‹> ∑(>üÙ> ã∞>.n>ﬁp>ê=˙6>Ë[>H>Ç÷>u—>–∑=˝í7=˝’∑>Æß>|>∂Ö>1é>‰>j>Â1>ùí>˙ª>M÷=˛ñx>:ö>Y¿Ü>5(s>ê^>±                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
