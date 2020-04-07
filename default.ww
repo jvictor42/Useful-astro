@@ -6,8 +6,8 @@
  
 WEIGHT_NAMES    ""   # Filename(s) of the input WEIGHT map(s)
  
-WEIGHT_MIN      0.3             # Pixel below those thresholds will be flagged
-WEIGHT_MAX      1.30            # Pixels above those thresholds will be flagged
+WEIGHT_MIN      0.1           # Pixel below those thresholds will be flagged
+WEIGHT_MAX      0.5            # Pixels above those thresholds will be flagged
 WEIGHT_OUTFLAGS 1               # FLAG values for thresholded pixels
  
 #---------------------------------- Flags -------------------------------------
@@ -35,7 +35,7 @@ OUTFLAG_NAME    flag.fits       # Output FLAG-map filename
 GETAREA         N               # Compute area for flags and weights (Y/N)?
 GETAREA_WEIGHT  0.0             # Weight threshold for area computation
 GETAREA_FLAGS   1               # Bit mask for flag pixels not counted in area
-MEMORY_BUFSIZE  256             # Buffer size in lines
+MEMORY_BUFSIZE  1024            # Buffer size in lines
 VERBOSE_TYPE    NORMAL          # can be QUIET, NORMAL or FULL
 WRITE_XML       Y               # Write XML file (Y/N)?
 XML_NAME        ww.xml          # Filename for XML output
